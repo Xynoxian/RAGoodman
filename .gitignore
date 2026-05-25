@@ -1,0 +1,25 @@
+# Environment variables (CRITICAL: Do not commit!)
+.env
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ChromaDB/Vector store local storage
+deliverable_1/data/vectordb/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# OS generated
+.DS_Store
+Thumbs.db
