@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Better Call Saul AI — UAE Legal Assistant powered by RAG. Get answers about UAE law with source citations.">
+    <title>Better Call Saul AI — UAE Legal Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header" id="app-header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <div class="logo-icon">⚖️</div>
+                    <div class="logo-text">
+                        <h1>Better Call Saul AI</h1>
+                        <p class="tagline">In legal trouble? Better Call Saul AI!</p>
+                    </div>
+                </div>
+                <div class="header-badges">
+                    <span class="badge badge-gold">UAE Law</span>
+                    <span class="badge badge-blue">RAG Powered</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Chat Area -->
+            <main class="chat-area" id="chat-area">
+                <!-- Welcome Message -->
+                <div class="welcome-container" id="welcome-container">
+                    <div class="welcome-card">
+                        <div class="welcome-icon">⚖️</div>
+                        <h2>Welcome to Better Call Saul AI</h2>
+                        <p>Your AI-powered UAE legal assistant. Ask me anything about UAE law — Penal Code, Labour Law, Civil Code, Cybercrime Law, or Personal Status Law.</p>
+                        <p class="welcome-sub">Every answer is backed by specific legal articles. <em>Let me tell you something, my friend — the law is on your side.</em></p>
+                    </div>
+
+                    <!-- Suggestion Chips -->
+                    <div class="suggestions" id="suggestions">
+                        <p class="suggestions-label">Try asking:</p>
+                        <div class="chip-container">
+                            <button class="suggestion-chip" onclick="handleSuggestionClick('What is the punishment for theft in the UAE?')">
+                                🔒 Punishment for theft?
+                            </button>
+                            <button class="suggestion-chip" onclick="handleSuggestionClick('How many annual leave days am I entitled to?')">
+                                🏖️ Annual leave days?
+                            </button>
+                            <button class="suggestion-chip" onclick="handleSuggestionClick('What are the cybercrime penalties in UAE?')">
+                                💻 Cybercrime penalties?
+                            </button>
+                            <button class="suggestion-chip" onclick="handleSuggestionClick('How is child custody determined in UAE?')">
+                                👨‍👩‍👧 Child custody rules?
+                            </button>
+                            <button class="suggestion-chip" onclick="handleSuggestionClick('What are my rights if terminated without notice?')">
+                                📋 Termination rights?
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Chat Messages Container -->
+                <div class="messages-container" id="messages-container"></div>
+
+                <!-- Typing Indicator -->
+                <div class="typing-indicator" id="typing-indicator" style="display: none;">
+                    <div class="ai-avatar">⚖️</div>
+                    <div class="typing-dots">
+                        <span></span><span></span><span></span>
+                    </div>
+                </div>
+            </main>
+
+            <!-- Sources Sidebar -->
+            <aside class="sources-sidebar" id="sources-sidebar">
+                <div class="sidebar-header">
+                    <h3>📚 Sources</h3>
+                    <button class="sidebar-toggle" id="sidebar-close" onclick="toggleSidebar()">✕</button>
+                </div>
+
+                <!-- Confidence Meter -->
+                <div class="confidence-section" id="confidence-section" style="display: none;">
+                    <h4>Confidence Score</h4>
+                    <div class="confidence-meter">
+                        <div class="confidence-fill" id="confidence-fill" style="width: 0%"></div>
+                    </div>
+                    <span class="confidence-value" id="confidence-value">0%</span>
+                </div>
+
+                <!-- Hallucination Warning -->
+                <div class="hallucination-warning" id="hallucination-warning" style="display: none;">
+                    <span class="warning-icon">⚠️</span>
+                    <span class="warning-text" id="warning-text">Potential hallucination detected</span>
+                </div>
+
+                <!-- Source Cards -->
+                <div class="source-cards" id="source-cards">
+                    <p class="no-sources">Ask a question to see sources here.</p>
+                </div>
+
+                <!-- Timing Info -->
+                <div class="timing-info" id="timing-info" style="display: none;">
+                    <h4>⏱️ Performance</h4>
+                    <div class="timing-row"><span>Retrieval:</span><span id="timing-retrieval">—</span></div>
+                    <div class="timing-row"><span>Generation:</span><span id="timing-generation">—</span></div>
+                    <div class="timing-row"><span>Total:</span><span id="timing-total">—</span></div>
+                </div>
+            </aside>
+        </div>
+
+        <!-- Input Area -->
+        <div class="input-area">
+            <div class="input-container">
+                <button class="sidebar-btn" onclick="toggleSidebar()" title="Toggle sources panel">📚</button>
+                <textarea id="query-input" placeholder="Ask me about UAE law..." rows="1" onkeydown="handleKeyDown(event)"></textarea>
+                <button class="send-btn" id="send-btn" onclick="sendMessage()" title="Send message">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+            <p class="disclaimer">⚠️ AI-generated responses for informational purposes only. Not legal advice. Always consult a qualified UAE legal professional.</p>
+        </div>
+    </div>
+
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

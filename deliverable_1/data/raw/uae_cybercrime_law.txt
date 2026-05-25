@@ -1,0 +1,129 @@
+UAE CYBERCRIME LAW
+Federal Decree-Law No. 34 of 2021
+On Combating Rumours and Cybercrimes
+
+================================================================================
+
+PART ONE: GENERAL PROVISIONS
+
+CHAPTER 1: Definitions and Scope
+
+Article 1:
+This Law shall be known as the "Combating Rumours and Cybercrimes Law." It aims to protect public order, national security, personal privacy, and economic stability from criminal activities committed using information technology, electronic systems, and the internet. This Law shall apply to crimes committed within the territory of the United Arab Emirates or those committed outside the State if the criminal act or any of its effects occurs within the State or against any of its institutions or residents.
+
+Article 2:
+For the purposes of this Law, the following terms shall have the meanings assigned to them:
+(a) "Information Technology" means any electronic, magnetic, optical, electrochemical, or similar technology used for the processing, storage, or transmission of data.
+(b) "Information System" means a set of programs and tools designed for the processing, management, or storage of data.
+(c) "Electronic Data" means any data that can be stored, processed, generated, or transmitted by information technology.
+(d) "Website" means any virtual space on the internet that contains data accessible to users.
+(e) "Network" means an interconnection between two or more information technology systems enabling the exchange of data.
+(f) "Electronic Account" means a personal or business account registered on a website, application, or information system.
+
+CHAPTER 2: Unauthorized Access and System Intrusion
+
+Article 3:
+Whoever intentionally accesses a website, information system, network, or electronic data without authorization or in excess of authorized access shall be punished by imprisonment for a term not less than one month and a fine not less than AED 100000 and not exceeding AED 300000, or by either penalty. The intent to access without authorization is sufficient for the commission of this offence; it is not necessary that the offender obtains any data or causes any damage.
+
+Article 4:
+If the unauthorized access results in the deletion, alteration, destruction, disclosure, publication, or redistribution of electronic data, the penalty shall be imprisonment for a term not less than six months and a fine not less than AED 150000 and not exceeding AED 750000, or by either penalty.
+
+Article 5:
+If the unauthorized access targets a government information system, a health information system, a financial institution system, or a critical infrastructure system, the penalty shall be imprisonment for a term not less than one year and not exceeding five years and a fine not less than AED 250000 and not exceeding AED 1500000. Critical infrastructure includes systems related to energy, water, transportation, telecommunications, and emergency services.
+
+Article 6:
+Whoever intentionally disrupts, disables, suspends, or interferes with the operation of a website, information system, or network by any means, including denial-of-service attacks, malware deployment, or unauthorized modification, shall be punished by imprisonment for a term not less than six months and a fine not less than AED 150000 and not exceeding AED 500000.
+
+CHAPTER 3: Data Theft and Electronic Fraud
+
+Article 7:
+Whoever, by use of information technology, unlawfully obtains, intercepts, or copies electronic data, passwords, access codes, encryption keys, or similar security information shall be punished by imprisonment for a term not less than one year and not exceeding three years and a fine not less than AED 250000 and not exceeding AED 1000000.
+
+Article 8:
+Whoever, by use of information technology, forges, alters, or destroys an electronic document, email, electronic signature, or electronic record shall be punished by imprisonment for a term not less than one year and not exceeding three years and a fine not less than AED 150000 and not exceeding AED 750000. If the forged document is an official electronic document issued by a government entity, the penalty shall be imprisonment for a term not less than two years and not exceeding five years and a fine not less than AED 500000.
+
+Article 9:
+Whoever, by use of any information technology means, seizes for themselves or for another person any movable property or benefit, or signs on documents, by using a fraudulent method, assuming a false identity, or impersonating a true identity, shall be punished by imprisonment for a term not less than one year and a fine not less than AED 250000 and not exceeding AED 1000000, or by either penalty. If the amount obtained through fraud exceeds AED 1000000, the penalty shall be imprisonment for a term not less than two years and not exceeding five years.
+
+Article 10:
+Whoever uses information technology to obtain, without authorization, the bank account numbers, card numbers, electronic payment data, or financial information of another person shall be punished by imprisonment for a term not less than six months and not exceeding three years and a fine not less than AED 200000 and not exceeding AED 1000000.
+
+CHAPTER 4: Privacy Violations and Personal Data
+
+Article 11:
+Whoever uses information technology to invade the privacy of another person by:
+(a) Eavesdropping, intercepting, recording, or transmitting communications, conversations, or private information without consent.
+(b) Capturing, recording, or distributing photographs, videos, or audio recordings of another person without their consent.
+(c) Publishing news, photographs, or information relating to the private or family life of a person, even if true, without consent.
+shall be punished by imprisonment for a term not less than six months and a fine not less than AED 150000 and not exceeding AED 500000, or by either penalty.
+
+Article 12:
+Whoever uses information technology to modify, process, or manipulate a photograph, video, or recording of another person without their consent, in a manner that would offend their dignity or defame them, shall be punished by imprisonment for a term not less than one year and not exceeding two years and a fine not less than AED 250000 and not exceeding AED 500000. The use of artificial intelligence or deepfake technology to create false images or videos of another person shall be considered an aggravating circumstance.
+
+Article 13:
+Whoever publishes, distributes, or makes available personal data of another person, including their home address, telephone number, email address, health information, or financial data, without authorization and in a manner that harms or is likely to harm the person, shall be punished by imprisonment for a term not less than six months and a fine not less than AED 200000 and not exceeding AED 500000.
+
+CHAPTER 5: Online Defamation, Insult, and Content Offences
+
+Article 14:
+Whoever uses information technology, a website, or a social media platform to defame another person by attributing to them an act that would subject them to criminal prosecution or public contempt shall be punished by imprisonment for a term not exceeding two years and a fine not less than AED 250000 and not exceeding AED 500000, or by either penalty.
+
+Article 15:
+Whoever uses information technology to insult or offend another person shall be punished by imprisonment for a term not exceeding one year and a fine not less than AED 150000 and not exceeding AED 500000, or by either penalty.
+
+Article 16:
+Whoever uses information technology to blackmail or threaten another person to compel them to do or refrain from doing an act shall be punished by imprisonment for a term not exceeding two years and a fine not less than AED 250000 and not exceeding AED 500000. If the threat involves the disclosure of private images, recordings, or sexual content, the penalty shall be imprisonment for a term not less than two years and not exceeding five years and a fine not less than AED 500000.
+
+Article 17:
+Whoever creates, manages, or operates a website or electronic account for the purpose of promoting or facilitating terrorist activities, extremist ideologies, or content that incites hatred, discrimination, or violence against any group shall be punished by imprisonment for a term not less than five years and not exceeding twenty years and a fine not less than AED 1000000.
+
+Article 18:
+Whoever uses information technology to publish false news, rumours, or misleading information that is likely to harm public order, the national economy, or public health shall be punished by imprisonment for a term not less than one year and not exceeding three years and a fine not less than AED 200000 and not exceeding AED 1000000. If the false information is published during a state of emergency, pandemic, or crisis, the penalty shall be doubled.
+
+CHAPTER 6: Social Media and Platform-Specific Offences
+
+Article 19:
+Whoever creates a fictitious website, electronic account, or email, or falsely attributes one of these to a real person with the intent to commit fraud, cause harm, or impersonate that person, shall be punished by imprisonment for a term not less than one year and a fine not less than AED 250000 and not exceeding AED 500000.
+
+Article 20:
+Whoever uses social media platforms to promote, organize, or manage illegal collections of donations without proper authorization from competent authorities shall be punished by imprisonment for a term not exceeding one year and a fine not less than AED 200000 and not exceeding AED 500000. The collected amounts shall be confiscated and deposited with the competent authority.
+
+Article 21:
+Whoever uses information technology to operate, promote, or facilitate online gambling shall be punished by imprisonment for a term not exceeding two years and a fine not less than AED 250000 and not exceeding AED 1000000. The equipment and funds used in or derived from the online gambling operation shall be confiscated.
+
+CHAPTER 7: Penalties, Aggravating Circumstances, and General Provisions
+
+Article 22:
+The penalty shall be doubled in the following aggravating circumstances:
+(a) If the offender is a public official and commits the crime by exploiting their position or authority.
+(b) If the crime is committed against a minor, an elderly person, or a person with a disability.
+(c) If the offender has been previously convicted of a similar cybercrime.
+(d) If the crime results in significant financial loss to the victim or to public funds.
+(e) If the offender uses advanced techniques to conceal their identity or evade detection.
+
+Article 23:
+Any person who attempts to commit any of the crimes set forth in this Law shall be punished with a penalty not exceeding half the maximum penalty prescribed for the completed crime.
+
+Article 24:
+The court may order, in addition to the prescribed penalty, one or more of the following measures:
+(a) Confiscation of devices, programs, and tools used in the commission of the crime.
+(b) Closure of the website or the electronic account used in the commission of the crime, permanently or for a specified period.
+(c) Deportation of the convicted non-national from the State upon completion of the sentence.
+(d) Publication of a summary of the judgment in one or more daily newspapers at the expense of the convicted person.
+
+Article 25:
+Internet service providers and website operators shall cooperate with the competent authorities in the investigation and prosecution of cybercrimes. They shall preserve electronic data and traffic data for a period of not less than six months, or for such longer period as may be required by the competent authority. Failure to cooperate or to preserve data shall subject the service provider to a fine not less than AED 500000 and not exceeding AED 2000000.
+
+Article 26:
+Whoever reports a cybercrime to the competent authorities before it is discovered, or provides information that leads to the identification and arrest of other offenders, may benefit from a reduction or exemption from the penalty, at the discretion of the court.
+
+Article 27:
+Any provision of Federal Decree-Law No. 5 of 2012 on Combating Cybercrimes, and any other provision that contradicts or conflicts with this Law, shall be repealed. Regulations and decisions implementing the repealed provisions shall remain in force until new implementing regulations are issued.
+
+Article 28:
+This Law shall be published in the Official Gazette and shall come into force on January 2, 2022. The Public Prosecution shall have jurisdiction over the investigation and prosecution of all crimes set forth in this Law. The competent authorities shall establish specialized cybercrime units with trained personnel and advanced technological capabilities to investigate and combat cybercrimes effectively.
+
+================================================================================
+
+End of UAE Cybercrime Law
+Federal Decree-Law No. 34 of 2021

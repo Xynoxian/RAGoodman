@@ -1,0 +1,148 @@
+UAE CIVIL CODE
+Federal Law No. 5 of 1985
+On Civil Transactions
+
+================================================================================
+
+PART ONE: GENERAL PROVISIONS AND OBLIGATIONS
+
+CHAPTER 1: General Provisions
+
+Article 1:
+Legislative provisions shall apply to all matters dealt with by those provisions in their letter and spirit. In the absence of a legislative provision, the judge shall decide according to Islamic Sharia, and in the absence of that, according to custom, and in the absence of custom, according to the principles of natural law and rules of equity. Islamic jurisprudence and judicial precedents shall guide the interpretation and application of this Law.
+
+Article 2:
+In calculating time periods, the Gregorian calendar shall be used unless the law or the agreement of the parties provides for the use of the Hijri calendar. Where the law prescribes a period in days, the day on which the period commences shall not be counted, and the period shall expire at the end of the last day. If the last day of the period falls on an official holiday, the period shall be extended to the first working day thereafter.
+
+Article 3:
+The provisions of this Law shall apply to all persons within the territory of the United Arab Emirates. The capacity of persons to undertake legal obligations shall be governed by their personal law. However, in financial transactions conducted within the State, if one of the parties is a foreign national who lacks capacity under their personal law but would have capacity under UAE law, such lack of capacity shall have no effect on the validity of the transaction.
+
+CHAPTER 2: Obligations in General
+
+Article 4:
+An obligation is a legal bond by which the obligor is bound to perform a duty for the benefit of the obligee, whether the obligation arises from a contract, a unilateral declaration, a wrongful act, an unjust enrichment, or the law. The obligor must fulfill their obligation in good faith and in accordance with the requirements of law and custom.
+
+Article 5:
+Obligations arising from contract shall be governed by the agreement of the parties, subject to the mandatory provisions of the law, public order, and morals. Any condition that violates public order or morals shall be void, and the remainder of the contract shall remain enforceable to the extent it can subsist without such condition.
+
+Article 6:
+An obligation may be conditional upon the occurrence of a future uncertain event. A suspensive condition postpones the existence of the obligation until the condition is fulfilled. A resolutive condition terminates the obligation upon its fulfillment. A condition shall be deemed fulfilled if the party who had an interest in preventing its fulfillment wrongfully prevented it.
+
+Article 7:
+A joint obligation is one in which two or more obligors are bound to perform the same obligation, or two or more obligees are entitled to demand the same performance. Where the obligation is joint among the obligors, the obligee may demand performance of the entire obligation from any one of the obligors. The obligor who performs the entire obligation shall have a right of recourse against the other obligors, each in proportion to their share.
+
+CHAPTER 3: Contracts
+
+Article 8:
+A contract is an agreement whereby two or more parties create, modify, or extinguish an obligation between them. A contract is formed by the exchange of an offer and an acceptance, together with any other conditions required by law. The offer and acceptance may be expressed in words, in writing, by customary signs, or by any conduct that circumstances indicate as intended to convey agreement.
+
+Article 9:
+An offer lapses if it is not accepted within the time specified therein, or within a reasonable time if no time is specified. An offer made to a person present must be accepted immediately unless circumstances indicate otherwise. An offer made to a person absent shall remain open for a reasonable period to allow for the receipt and consideration of the offer.
+
+Article 10:
+A contract shall be void if:
+(a) The consent of either party was obtained by coercion, fraud, or material misrepresentation.
+(b) The subject matter of the contract is impossible, unlawful, or contrary to public order or morals.
+(c) The contract lacks one of the essential elements required by law, such as offer, acceptance, consideration, or lawful purpose.
+(d) Either party lacked the legal capacity to enter into the contract at the time of its formation.
+
+Article 11:
+If the consent of a party was obtained by fraud or material misrepresentation, the deceived party may rescind the contract within one year of discovering the fraud. Fraud is the use of dishonest means to induce another party to enter into a contract that they would not have entered into otherwise. Silence regarding a material fact may constitute fraud if there was a duty to disclose such fact.
+
+Article 12:
+If the consent of a party was obtained by coercion or duress, the coerced party may rescind the contract within one year of the cessation of the coercion. Coercion exists when a person is compelled to enter into a contract by an unlawful threat of serious harm to their person, property, reputation, or family.
+
+Article 13:
+A contract may be rescinded for lesion (ghabn) if one party has been unduly prejudiced by the contract and the other party has exploited the first party's inexperience, weakness, passion, or circumstances. The rescission must be sought within one year of the date of the contract. The court may, instead of rescinding the contract, adjust the obligations of the parties to achieve fairness.
+
+Article 14:
+A contract that is voidable due to defective consent shall be deemed valid if the party entitled to rescission expressly or impliedly confirms the contract after becoming aware of the ground for rescission. Implied confirmation may arise from the party's conduct, such as performing or accepting performance under the contract.
+
+Article 15:
+Where the subject matter of the contract includes several items and the contract is found to be void or voidable with respect to one item, the contract shall be void or voidable only with respect to that item, unless the parties intended the contract to be indivisible.
+
+CHAPTER 4: Performance and Effects of Obligations
+
+Article 16:
+The obligor must perform the obligation in its entirety. Partial performance may be refused by the obligee unless the court orders otherwise, taking into account the circumstances and the interests of both parties. The performance must conform to the terms of the obligation. If the manner of performance is not specified, it shall be determined by law, custom, or the nature of the obligation.
+
+Article 17:
+If the obligor fails to perform their obligation, the obligee may, after giving the obligor notice, request the court to order:
+(a) Specific performance of the obligation, if specific performance is possible and not excessively burdensome.
+(b) Performance by a third party at the expense of the obligor.
+(c) Compensation for damages resulting from the non-performance.
+
+Article 18:
+If the performance of the obligation becomes impossible due to a cause beyond the control of the obligor (force majeure), the obligation shall be extinguished. If the impossibility is partial, the obligee may either accept partial performance with a proportionate reduction in their counter-obligation, or rescind the contract. Force majeure includes natural disasters, war, epidemic, and governmental prohibitions that make performance impossible.
+
+Article 19:
+If extraordinary and unforeseen circumstances of a general nature arise after the formation of the contract, making the performance of the obligation excessively onerous for the obligor without rendering it impossible, the court may, upon balancing the interests of both parties, reduce the onerous obligation to a reasonable level. Any agreement to the contrary shall be void.
+
+CHAPTER 5: Property Rights
+
+Article 20:
+Ownership is the right to enjoy and dispose of property within the limits of the law. The owner of a thing has the right to use it, enjoy its fruits, and dispose of it in any lawful manner. No person may be deprived of their property except in cases prescribed by law and upon payment of fair compensation.
+
+Article 21:
+Possession is the actual control or holding of a thing with the intent to exercise a right over it. A person who possesses property in good faith, believing themselves to be the owner, shall acquire ownership of movable property by prescription after the lapse of three years of continuous, uninterrupted, and peaceful possession.
+
+Article 22:
+Co-ownership exists when two or more persons own undivided shares in the same property. Each co-owner may dispose of their share without the consent of the other co-owners. Any co-owner may demand the partition of the property, unless the co-owners have agreed to maintain the co-ownership for a specified period not exceeding five years, which may be renewed.
+
+Article 23:
+Usufruct is the right to use and enjoy the fruits of another person's property for a specified period or for the lifetime of the usufructuary, without altering the substance of the property. The usufructuary must preserve the property and use it as a prudent person would use their own property. Upon expiry of the usufruct, the property shall be returned to the owner in the condition in which it was received, subject to normal wear and tear.
+
+CHAPTER 6: Torts and Civil Liability
+
+Article 24:
+Any person who causes harm to another through a wrongful act, whether intentional or negligent, shall be obligated to compensate the injured party for the damage suffered. A wrongful act is any act or omission that violates a legal duty, including the duty of care, and causes damage to another person.
+
+Article 25:
+The employer shall be liable for the damages caused by the wrongful acts of their employees during or in connection with the performance of their duties. The employer may seek indemnification from the employee if the employee acted intentionally or with gross negligence. The liability of the employer under this article does not relieve the employee of their personal liability towards the injured party.
+
+Article 26:
+The owner or custodian of a thing shall be liable for any damage caused by that thing unless they prove that the damage resulted from an external cause beyond their control, the act of the injured party, or the act of a third party. This principle applies to buildings, vehicles, machinery, animals, and any other thing in the custody of a person.
+
+Article 27:
+The owner of a building shall be liable for any damage resulting from the collapse of the building, whether in whole or in part, if the collapse is due to a defect in the building, lack of maintenance, or a fault in its construction. The injured party need not prove negligence on the part of the owner; the mere fact of collapse gives rise to liability unless the owner proves force majeure.
+
+Article 28:
+Compensation for damage shall include both material damage (damnum emergens) and loss of profit (lucrum cessans). Material damage includes any financial loss actually incurred by the injured party. Loss of profit includes the gains that the injured party was reasonably expected to earn but for the wrongful act. Moral damage, including pain and suffering, emotional distress, and damage to reputation, shall also be compensable.
+
+Article 29:
+The court shall assess the amount of compensation taking into account all relevant circumstances, including:
+(a) The gravity of the wrongful act.
+(b) The extent of the damage suffered.
+(c) The financial situation of both parties.
+(d) Whether the wrongful act was intentional or negligent.
+(e) Any contributory negligence on the part of the injured party.
+If the injured party contributed to the damage through their own negligence, the court may reduce the amount of compensation proportionately.
+
+Article 30:
+An action for compensation for damage arising from a wrongful act shall be time-barred after the lapse of three years from the date on which the injured party became aware of the damage and the identity of the person responsible for it. In all cases, the action shall be time-barred after the lapse of fifteen years from the date on which the wrongful act occurred.
+
+CHAPTER 7: Unjust Enrichment
+
+Article 31:
+Any person who, without a legal cause, obtains an enrichment at the expense of another person shall be obligated to return such enrichment within the limits of the other person's loss. This obligation arises regardless of whether the enrichment resulted from an act of the enriched person, an act of the impoverished person, an act of a third party, or any other cause.
+
+Article 32:
+If a person receives a payment that was not due, they shall be obligated to return it. A payment made in the performance of an obligation that does not exist or that has been extinguished shall be deemed a payment not due. However, no recovery shall be allowed if the payment was made voluntarily by a person who knew at the time of payment that they were not obligated to make it.
+
+================================================================================
+
+PART TWO: SUPPLEMENTARY PROVISIONS
+
+Article 33:
+The provisions of this Law shall be supplemented by the principles of Islamic Sharia and, where applicable, by the custom and usage prevailing in the State. In the interpretation of contracts, the common intention of the parties shall prevail over the literal meaning of the words used. If the intention of the parties cannot be ascertained, the contract shall be interpreted in the manner most favorable to the obligor.
+
+Article 34:
+Any provision of law that contradicts or conflicts with the provisions of this Law shall be repealed. The implementing regulations and decisions necessary for the enforcement of this Law shall be issued by the competent authorities.
+
+Article 35:
+This Law shall be published in the Official Gazette and shall come into force three months after the date of its publication. The provisions of this Law shall apply to all civil transactions concluded after its effective date. Transactions concluded before the effective date shall continue to be governed by the law in force at the time of their conclusion.
+
+================================================================================
+
+End of UAE Civil Code
+Federal Law No. 5 of 1985
