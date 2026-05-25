@@ -70,8 +70,7 @@ class Retriever:
         start = time.time()
 
         # Step 1 – encode query
-        query_vec = self.embedder.embed_query(query).tolist()
-
+        query_vec = self.embedder.embed_text(query)
         # Step 2 – ANN search
         raw = self.vector_store.search(query_vec, top_k=self.top_k)
 

@@ -30,6 +30,11 @@ from flask_cors import CORS
 from shared.config import FLASK_PORT, FLASK_DEBUG
 from shared.utils import setup_logging
 
+import os
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+
 logger = setup_logging("web_app")
 
 # =============================================================================
@@ -172,8 +177,4 @@ if __name__ == "__main__":
     logger.info("Starting Flask server on http://localhost:%d", FLASK_PORT)
     logger.info("Press Ctrl+C to stop\n")
 
-    app.run(
-        host="0.0.0.0",
-        port=FLASK_PORT,
-        debug=FLASK_DEBUG,
-    )
+    app.run(host='0.0.0.0', port=5000, debug=True, threaded=False, use_reloader=False)
