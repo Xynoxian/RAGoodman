@@ -21,6 +21,11 @@ Design Decision:
     you'd want streaming/batched insertion.
 """
 
+import os
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+
 import sys
 import json
 import time
@@ -30,7 +35,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from shared.utils import setup_logging, ensure_dirs
-from shared.config import DATA_RAW_DIR, DATA_CHUNKS_DIR
+from shared.config import DATA_RAW_DIR, DATA_CHUNKS_DIR, VECTOR_DB_DIR
 from deliverable_1.src.data_loader import load_all_documents
 from deliverable_1.src.preprocessor import preprocess_documents
 from deliverable_1.src.chunker import chunk_documents
@@ -119,13 +124,22 @@ def main():
 
     # Step 5: Store in ChromaDB
     logger.info("\n💾 Step 5: Storing in ChromaDB vector store...")
-    vector_store = VectorStore()
 
     # Delete existing collection and recreate (fresh start)
+    vector_store = VectorStore(persist_directory=str(VECTOR_DB_DIR))
     vector_store.delete_collection()
-    vector_store = VectorStore()  # Reinitialize after delete
+    vector_store = VectorStore(persist_directory=str(VECTOR_DB_DIR))  # Reinitialize after delete
 
-    vector_store.add_chunks(chunks, embeddings)
+    ids = [c.chunk_id for c in chunks]
+    documents = [c.text for c in chunks]
+    metadatas = [c.metadata for c in chunks]
+
+    vector_store.add_chunks(
+        ids=ids,
+        embeddings=embeddings,
+        documents=documents,
+        metadatas=metadatas
+    )
     stats = vector_store.get_collection_stats()
     logger.info("   Stored %d chunks in collection '%s'", stats.get("count", 0), stats.get("name", "unknown"))
 

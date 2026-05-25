@@ -230,3 +230,5 @@ if __name__ == "__main__":
 
     print(f"\nModel info (after load): {model.get_model_info()}")
     print("\n✅ All smoke tests passed!")
+
+Embedder = EmbeddingModel

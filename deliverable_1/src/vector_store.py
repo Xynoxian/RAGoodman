@@ -114,6 +114,20 @@ class VectorStore:
             "persist_directory": str(self.persist_directory),
         }
 
+    get_collection_stats = get_stats
+
+    def delete_collection(self) -> None:
+        """Delete the entire collection from ChromaDB."""
+        self._ensure_client()
+        try:
+            self._client.delete_collection(name=self.collection_name)
+            logger.info("Deleted existing collection '%s'.", self.collection_name)
+        except ValueError:
+            # ChromaDB throws a ValueError if the collection doesn't exist yet, which is fine!
+            logger.info("Collection '%s' does not exist yet. Skipping deletion.", self.collection_name)
+        except Exception as exc:
+            logger.warning("Could not delete collection '%s': %s", self.collection_name, exc)
+
     def count(self) -> int:
         """Return the number of chunks in the collection."""
         self._ensure_client()
