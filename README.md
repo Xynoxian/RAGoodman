@@ -205,12 +205,6 @@ All settings are controlled via environment variables (`.env` file):
 | **Hybrid Search** | BM25 + Dense retrieval with Reciprocal Rank Fusion | `deliverable_2/src/hybrid_retriever.py` |
 | **Hallucination Detection** | Claim extraction and verification against source docs | `deliverable_2/src/hallucination_detector.py` |
 
----
 
-## 📄 License
-
-This project is for academic purposes as part of the NLP Applications course (BUid Year 4, Term 3).
-
----
 
 *"I'm not saying you need a lawyer, but you definitely need Saul Goodman AI."* ⚖️
