@@ -1,0 +1,4098 @@
+[
+  {
+    "chunk_id": "chunk_c7949c10",
+    "text": "UAE CIVIL CODE\nFederal Law No. 5 of 1985\nOn Civil Transactions\n\n================================================================================\n\nPART ONE: GENERAL PROVISIONS AND OBLIGATIONS\n\nCHAPTER ...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "preamble",
+      "chapter": "",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "0",
+      "chunk_size": "221"
+    },
+    "full_length": 221
+  },
+  {
+    "chunk_id": "chunk_92b589e8",
+    "text": "Article 1:\nLegislative provisions shall apply to all matters dealt with by those provisions in their letter and spirit. In the absence of a legislative provision, the judge shall decide according to I...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "1",
+      "chapter": "Chapter 1: General Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "1",
+      "chunk_size": "463"
+    },
+    "full_length": 463
+  },
+  {
+    "chunk_id": "chunk_efef0248",
+    "text": "Article 2:\nIn calculating time periods, the Gregorian calendar shall be used unless the law or the agreement of the parties provides for the use of the Hijri calendar. Where the law prescribes a perio...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "2",
+      "chapter": "Chapter 1: General Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "2",
+      "chunk_size": "452"
+    },
+    "full_length": 452
+  },
+  {
+    "chunk_id": "chunk_5befd418",
+    "text": "Article 3:\nThe provisions of this Law shall apply to all persons within the territory of the United Arab Emirates. The capacity of persons to undertake legal obligations shall be governed by their per...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "3",
+      "chapter": "Chapter 1: General Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "3",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_df2ad44a",
+    "text": "the transaction.\n\nCHAPTER 2: Obligations in General",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "3",
+      "chapter": "Chapter 1: General Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "4",
+      "chunk_size": "51"
+    },
+    "full_length": 51
+  },
+  {
+    "chunk_id": "chunk_13338989",
+    "text": "Article 4:\nAn obligation is a legal bond by which the obligor is bound to perform a duty for the benefit of the obligee, whether the obligation arises from a contract, a unilateral declaration, a wron...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "4",
+      "chapter": "Chapter 2: Obligations in General",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "5",
+      "chunk_size": "358"
+    },
+    "full_length": 358
+  },
+  {
+    "chunk_id": "chunk_2032bd57",
+    "text": "Article 5:\nObligations arising from contract shall be governed by the agreement of the parties, subject to the mandatory provisions of the law, public order, and morals. Any condition that violates pu...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "5",
+      "chapter": "Chapter 2: Obligations in General",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "6",
+      "chunk_size": "347"
+    },
+    "full_length": 347
+  },
+  {
+    "chunk_id": "chunk_675b8935",
+    "text": "Article 6:\nAn obligation may be conditional upon the occurrence of a future uncertain event. A suspensive condition postpones the existence of the obligation until the condition is fulfilled. A resolu...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "6",
+      "chapter": "Chapter 2: Obligations in General",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "7",
+      "chunk_size": "388"
+    },
+    "full_length": 388
+  },
+  {
+    "chunk_id": "chunk_555664a4",
+    "text": "Article 7:\nA joint obligation is one in which two or more obligors are bound to perform the same obligation, or two or more obligees are entitled to demand the same performance. Where the obligation i...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "7",
+      "chapter": "Chapter 2: Obligations in General",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "8",
+      "chunk_size": "480"
+    },
+    "full_length": 480
+  },
+  {
+    "chunk_id": "chunk_10b292ec",
+    "text": "Article 8:\nA contract is an agreement whereby two or more parties create, modify, or extinguish an obligation between them. A contract is formed by the exchange of an offer and an acceptance, together...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "8",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "9",
+      "chunk_size": "406"
+    },
+    "full_length": 406
+  },
+  {
+    "chunk_id": "chunk_73641600",
+    "text": "Article 9:\nAn offer lapses if it is not accepted within the time specified therein, or within a reasonable time if no time is specified. An offer made to a person present must be accepted immediately ...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "9",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "10",
+      "chunk_size": "372"
+    },
+    "full_length": 372
+  },
+  {
+    "chunk_id": "chunk_0278a9b3",
+    "text": "Article 10:\nA contract shall be void if:\n(a) The consent of either party was obtained by coercion, fraud, or material misrepresentation.\n(b) The subject matter of the contract is impossible, unlawful,...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "10",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "11",
+      "chunk_size": "470"
+    },
+    "full_length": 470
+  },
+  {
+    "chunk_id": "chunk_7c9cc6f9",
+    "text": "Article 11:\nIf the consent of a party was obtained by fraud or material misrepresentation, the deceived party may rescind the contract within one year of discovering the fraud. Fraud is the use of dis...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "11",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "12",
+      "chunk_size": "408"
+    },
+    "full_length": 408
+  },
+  {
+    "chunk_id": "chunk_359eda9e",
+    "text": "Article 12:\nIf the consent of a party was obtained by coercion or duress, the coerced party may rescind the contract within one year of the cessation of the coercion. Coercion exists when a person is ...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "12",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "13",
+      "chunk_size": "322"
+    },
+    "full_length": 322
+  },
+  {
+    "chunk_id": "chunk_bcfa0e8d",
+    "text": "Article 13:\nA contract may be rescinded for lesion (ghabn) if one party has been unduly prejudiced by the contract and the other party has exploited the first party's inexperience, weakness, passion, ...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "13",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "14",
+      "chunk_size": "402"
+    },
+    "full_length": 402
+  },
+  {
+    "chunk_id": "chunk_e885c7fc",
+    "text": "Article 14:\nA contract that is voidable due to defective consent shall be deemed valid if the party entitled to rescission expressly or impliedly confirms the contract after becoming aware of the grou...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "14",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "15",
+      "chunk_size": "339"
+    },
+    "full_length": 339
+  },
+  {
+    "chunk_id": "chunk_5e01ec3f",
+    "text": "Article 15:\nWhere the subject matter of the contract includes several items and the contract is found to be void or voidable with respect to one item, the contract shall be void or voidable only with ...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "15",
+      "chapter": "Chapter 3: Contracts",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "16",
+      "chunk_size": "332"
+    },
+    "full_length": 332
+  },
+  {
+    "chunk_id": "chunk_149b14e7",
+    "text": "Article 16:\nThe obligor must perform the obligation in its entirety. Partial performance may be refused by the obligee unless the court orders otherwise, taking into account the circumstances and the ...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "16",
+      "chapter": "Chapter 4: Performance and Effects of Obligations",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "17",
+      "chunk_size": "406"
+    },
+    "full_length": 406
+  },
+  {
+    "chunk_id": "chunk_40a3a889",
+    "text": "Article 17:\nIf the obligor fails to perform their obligation, the obligee may, after giving the obligor notice, request the court to order:\n(a) Specific performance of the obligation, if specific perf...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "17",
+      "chapter": "Chapter 4: Performance and Effects of Obligations",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "18",
+      "chunk_size": "380"
+    },
+    "full_length": 380
+  },
+  {
+    "chunk_id": "chunk_13bd41cb",
+    "text": "Article 18:\nIf the performance of the obligation becomes impossible due to a cause beyond the control of the obligor (force majeure), the obligation shall be extinguished. If the impossibility is part...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "18",
+      "chapter": "Chapter 4: Performance and Effects of Obligations",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "19",
+      "chunk_size": "460"
+    },
+    "full_length": 460
+  },
+  {
+    "chunk_id": "chunk_9275bcf1",
+    "text": "Article 19:\nIf extraordinary and unforeseen circumstances of a general nature arise after the formation of the contract, making the performance of the obligation excessively onerous for the obligor wi...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "19",
+      "chapter": "Chapter 4: Performance and Effects of Obligations",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "20",
+      "chunk_size": "417"
+    },
+    "full_length": 417
+  },
+  {
+    "chunk_id": "chunk_e5bffb3c",
+    "text": "Article 20:\nOwnership is the right to enjoy and dispose of property within the limits of the law. The owner of a thing has the right to use it, enjoy its fruits, and dispose of it in any lawful manner...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "20",
+      "chapter": "Chapter 5: Property Rights",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "21",
+      "chunk_size": "318"
+    },
+    "full_length": 318
+  },
+  {
+    "chunk_id": "chunk_ed7473ac",
+    "text": "Article 21:\nPossession is the actual control or holding of a thing with the intent to exercise a right over it. A person who possesses property in good faith, believing themselves to be the owner, sha...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "21",
+      "chapter": "Chapter 5: Property Rights",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "22",
+      "chunk_size": "342"
+    },
+    "full_length": 342
+  },
+  {
+    "chunk_id": "chunk_5f564a5a",
+    "text": "Article 22:\nCo-ownership exists when two or more persons own undivided shares in the same property. Each co-owner may dispose of their share without the consent of the other co-owners. Any co-owner ma...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "22",
+      "chapter": "Chapter 5: Property Rights",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "23",
+      "chunk_size": "372"
+    },
+    "full_length": 372
+  },
+  {
+    "chunk_id": "chunk_88626df9",
+    "text": "Article 23:\nUsufruct is the right to use and enjoy the fruits of another person's property for a specified period or for the lifetime of the usufructuary, without altering the substance of the propert...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "23",
+      "chapter": "Chapter 5: Property Rights",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "24",
+      "chunk_size": "494"
+    },
+    "full_length": 494
+  },
+  {
+    "chunk_id": "chunk_57cb906d",
+    "text": "Article 24:\nAny person who causes harm to another through a wrongful act, whether intentional or negligent, shall be obligated to compensate the injured party for the damage suffered. A wrongful act i...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "24",
+      "chapter": "Chapter 6: Torts and Civil Liability",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "25",
+      "chunk_size": "314"
+    },
+    "full_length": 314
+  },
+  {
+    "chunk_id": "chunk_8d254f02",
+    "text": "Article 25:\nThe employer shall be liable for the damages caused by the wrongful acts of their employees during or in connection with the performance of their duties. The employer may seek indemnificat...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "25",
+      "chapter": "Chapter 6: Torts and Civil Liability",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "26",
+      "chunk_size": "417"
+    },
+    "full_length": 417
+  },
+  {
+    "chunk_id": "chunk_001548f1",
+    "text": "Article 26:\nThe owner or custodian of a thing shall be liable for any damage caused by that thing unless they prove that the damage resulted from an external cause beyond their control, the act of the...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "26",
+      "chapter": "Chapter 6: Torts and Civil Liability",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "27",
+      "chunk_size": "359"
+    },
+    "full_length": 359
+  },
+  {
+    "chunk_id": "chunk_4b3c7a7c",
+    "text": "Article 27:\nThe owner of a building shall be liable for any damage resulting from the collapse of the building, whether in whole or in part, if the collapse is due to a defect in the building, lack of...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "27",
+      "chapter": "Chapter 6: Torts and Civil Liability",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "28",
+      "chunk_size": "404"
+    },
+    "full_length": 404
+  },
+  {
+    "chunk_id": "chunk_50aef3e7",
+    "text": "Article 28:\nCompensation for damage shall include both material damage (damnum emergens) and loss of profit (lucrum cessans). Material damage includes any financial loss actually incurred by the injur...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "28",
+      "chapter": "Chapter 6: Torts and Civil Liability",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "29",
+      "chunk_size": "441"
+    },
+    "full_length": 441
+  },
+  {
+    "chunk_id": "chunk_8f3c39e1",
+    "text": "Article 29:\nThe court shall assess the amount of compensation taking into account all relevant circumstances, including:\n(a) The gravity of the wrongful act.\n(b) The extent of the damage suffered.\n(c)...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "29",
+      "chapter": "Chapter 6: Torts and Civil Liability",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "30",
+      "chunk_size": "508"
+    },
+    "full_length": 508
+  },
+  {
+    "chunk_id": "chunk_2d795761",
+    "text": "Article 30:\nAn action for compensation for damage arising from a wrongful act shall be time-barred after the lapse of three years from the date on which the injured party became aware of the damage an...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "30",
+      "chapter": "Chapter 6: Torts and Civil Liability",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "31",
+      "chunk_size": "407"
+    },
+    "full_length": 407
+  },
+  {
+    "chunk_id": "chunk_0c47ffef",
+    "text": "Article 31:\nAny person who, without a legal cause, obtains an enrichment at the expense of another person shall be obligated to return such enrichment within the limits of the other person's loss. Thi...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "31",
+      "chapter": "Chapter 7: Unjust Enrichment",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "32",
+      "chunk_size": "381"
+    },
+    "full_length": 381
+  },
+  {
+    "chunk_id": "chunk_2f7181b7",
+    "text": "Article 32:\nIf a person receives a payment that was not due, they shall be obligated to return it. A payment made in the performance of an obligation that does not exist or that has been extinguished ...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "32",
+      "chapter": "Chapter 7: Unjust Enrichment",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "33",
+      "chunk_size": "511"
+    },
+    "full_length": 511
+  },
+  {
+    "chunk_id": "chunk_7941672d",
+    "text": "Article 33:\nThe provisions of this Law shall be supplemented by the principles of Islamic Sharia and, where applicable, by the custom and usage prevailing in the State. In the interpretation of contra...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "33",
+      "chapter": "Chapter 7: Unjust Enrichment",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "34",
+      "chunk_size": "432"
+    },
+    "full_length": 432
+  },
+  {
+    "chunk_id": "chunk_80aa10b9",
+    "text": "Article 34:\nAny provision of law that contradicts or conflicts with the provisions of this Law shall be repealed. The implementing regulations and decisions necessary for the enforcement of this Law s...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "34",
+      "chapter": "Chapter 7: Unjust Enrichment",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "35",
+      "chunk_size": "244"
+    },
+    "full_length": 244
+  },
+  {
+    "chunk_id": "chunk_1b843524",
+    "text": "Article 35:\nThis Law shall be published in the Official Gazette and shall come into force three months after the date of its publication. The provisions of this Law shall apply to all civil transactio...",
+    "metadata": {
+      "source": "uae_civil_code.txt",
+      "law_name": "UAE Civil Code (Federal Law No. 5 of 1985)",
+      "article_number": "35",
+      "chapter": "Chapter 7: Unjust Enrichment",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "7",
+      "chunk_index": "36",
+      "chunk_size": "501"
+    },
+    "full_length": 501
+  },
+  {
+    "chunk_id": "chunk_beb47958",
+    "text": "UAE CYBERCRIME LAW\nFederal Decree-Law No. 34 of 2021\nOn Combating Rumours and Cybercrimes\n\n================================================================================\n\nPART ONE: GENERAL PROVISION...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "preamble",
+      "chapter": "",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "0",
+      "chunk_size": "235"
+    },
+    "full_length": 235
+  },
+  {
+    "chunk_id": "chunk_518c7d3e",
+    "text": "Article 1:\nThis Law shall be known as the \"Combating Rumours and Cybercrimes Law.\" It aims to protect public order, national security, personal privacy, and economic stability from criminal activities...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "1",
+      "chapter": "Chapter 1: Definitions and Scope",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "1",
+      "chunk_size": "278"
+    },
+    "full_length": 278
+  },
+  {
+    "chunk_id": "chunk_049354de",
+    "text": "technology, electronic systems, and the internet. This Law shall apply to crimes committed within the territory of the United Arab Emirates or those committed outside the State if the criminal act or ...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "1",
+      "chapter": "Chapter 1: Definitions and Scope",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "2",
+      "chunk_size": "291"
+    },
+    "full_length": 291
+  },
+  {
+    "chunk_id": "chunk_46c9b4d8",
+    "text": "Article 2:\nFor the purposes of this Law, the following terms shall have the meanings assigned to them:\n(a) \"Information Technology\" means any electronic, magnetic, optical, electrochemical, or similar...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "2",
+      "chapter": "Chapter 1: Definitions and Scope",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "3",
+      "chunk_size": "511"
+    },
+    "full_length": 511
+  },
+  {
+    "chunk_id": "chunk_c24e861a",
+    "text": "erated, or transmitted by information technology.\n(d) \"Website\" means any virtual space on the internet that contains data accessible to users.\n(e) \"Network\" means an interconnection between two or mo...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "2",
+      "chapter": "Chapter 1: Definitions and Scope",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "4",
+      "chunk_size": "440"
+    },
+    "full_length": 440
+  },
+  {
+    "chunk_id": "chunk_4d489c6b",
+    "text": "Article 3:\nWhoever intentionally accesses a website, information system, network, or electronic data without authorization or in excess of authorized access shall be punished by imprisonment for a ter...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "3",
+      "chapter": "Chapter 2: Unauthorized Access and System Intrusion",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "5",
+      "chunk_size": "482"
+    },
+    "full_length": 482
+  },
+  {
+    "chunk_id": "chunk_8058d817",
+    "text": "Article 4:\nIf the unauthorized access results in the deletion, alteration, destruction, disclosure, publication, or redistribution of electronic data, the penalty shall be imprisonment for a term not ...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "4",
+      "chapter": "Chapter 2: Unauthorized Access and System Intrusion",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "6",
+      "chunk_size": "307"
+    },
+    "full_length": 307
+  },
+  {
+    "chunk_id": "chunk_c7e0473e",
+    "text": "Article 5:\nIf the unauthorized access targets a government information system, a health information system, a financial institution system, or a critical infrastructure system, the penalty shall be im...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "5",
+      "chapter": "Chapter 2: Unauthorized Access and System Intrusion",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "7",
+      "chunk_size": "467"
+    },
+    "full_length": 467
+  },
+  {
+    "chunk_id": "chunk_5392e8ce",
+    "text": "Article 6:\nWhoever intentionally disrupts, disables, suspends, or interferes with the operation of a website, information system, or network by any means, including denial-of-service attacks, malware ...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "6",
+      "chapter": "Chapter 2: Unauthorized Access and System Intrusion",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "8",
+      "chunk_size": "421"
+    },
+    "full_length": 421
+  },
+  {
+    "chunk_id": "chunk_aca9eb5c",
+    "text": "Article 7:\nWhoever, by use of information technology, unlawfully obtains, intercepts, or copies electronic data, passwords, access codes, encryption keys, or similar security information shall be puni...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "7",
+      "chapter": "Chapter 3: Data Theft and Electronic Fraud",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "9",
+      "chunk_size": "351"
+    },
+    "full_length": 351
+  },
+  {
+    "chunk_id": "chunk_b65c623e",
+    "text": "Article 8:\nWhoever, by use of information technology, forges, alters, or destroys an electronic document, email, electronic signature, or electronic record shall be punished by imprisonment for a term...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "8",
+      "chapter": "Chapter 3: Data Theft and Electronic Fraud",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "10",
+      "chunk_size": "319"
+    },
+    "full_length": 319
+  },
+  {
+    "chunk_id": "chunk_82d64d36",
+    "text": "less than AED 150000 and not exceeding AED 750000. If the forged document is an official electronic document issued by a government entity, the penalty shall be imprisonment for a term not less than t...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "8",
+      "chapter": "Chapter 3: Data Theft and Electronic Fraud",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "11",
+      "chunk_size": "274"
+    },
+    "full_length": 274
+  },
+  {
+    "chunk_id": "chunk_c9c9b643",
+    "text": "Article 9:\nWhoever, by use of any information technology means, seizes for themselves or for another person any movable property or benefit, or signs on documents, by using a fraudulent method, assumi...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "9",
+      "chapter": "Chapter 3: Data Theft and Electronic Fraud",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "12",
+      "chunk_size": "410"
+    },
+    "full_length": 410
+  },
+  {
+    "chunk_id": "chunk_ccb06ca8",
+    "text": "nd not exceeding AED 1000000 or by either penalty. If the amount obtained through fraud exceeds AED 1000000 the penalty shall be imprisonment for a term not less than two years and not exceeding five ...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "9",
+      "chapter": "Chapter 3: Data Theft and Electronic Fraud",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "13",
+      "chunk_size": "206"
+    },
+    "full_length": 206
+  },
+  {
+    "chunk_id": "chunk_882ca382",
+    "text": "Article 10:\nWhoever uses information technology to obtain, without authorization, the bank account numbers, card numbers, electronic payment data, or financial information of another person shall be p...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "10",
+      "chapter": "Chapter 3: Data Theft and Electronic Fraud",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "14",
+      "chunk_size": "405"
+    },
+    "full_length": 405
+  },
+  {
+    "chunk_id": "chunk_8a62892e",
+    "text": "Article 11:\nWhoever uses information technology to invade the privacy of another person by:\n(a) Eavesdropping, intercepting, recording, or transmitting communications, conversations, or private inform...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "11",
+      "chapter": "Chapter 4: Privacy Violations and Personal Data",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "15",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_c6989688",
+    "text": "without consent.\nshall be punished by imprisonment for a term not less than six months and a fine not less than AED 150000 and not exceeding AED 500000 or by either penalty.",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "11",
+      "chapter": "Chapter 4: Privacy Violations and Personal Data",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "16",
+      "chunk_size": "173"
+    },
+    "full_length": 173
+  },
+  {
+    "chunk_id": "chunk_490927b1",
+    "text": "Article 12:\nWhoever uses information technology to modify, process, or manipulate a photograph, video, or recording of another person without their consent, in a manner that would offend their dignity...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "12",
+      "chapter": "Chapter 4: Privacy Violations and Personal Data",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "17",
+      "chunk_size": "378"
+    },
+    "full_length": 378
+  },
+  {
+    "chunk_id": "chunk_60c94639",
+    "text": "less than AED 250000 and not exceeding AED 500000. The use of artificial intelligence or deepfake technology to create false images or videos of another person shall be considered an aggravating circu...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "12",
+      "chapter": "Chapter 4: Privacy Violations and Personal Data",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "18",
+      "chunk_size": "208"
+    },
+    "full_length": 208
+  },
+  {
+    "chunk_id": "chunk_299b7465",
+    "text": "Article 13:\nWhoever publishes, distributes, or makes available personal data of another person, including their home address, telephone number, email address, health information, or financial data, wi...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "13",
+      "chapter": "Chapter 4: Privacy Violations and Personal Data",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "19",
+      "chunk_size": "475"
+    },
+    "full_length": 475
+  },
+  {
+    "chunk_id": "chunk_7a8ae0c1",
+    "text": "Article 14:\nWhoever uses information technology, a website, or a social media platform to defame another person by attributing to them an act that would subject them to criminal prosecution or public ...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "14",
+      "chapter": "Chapter 5: Online Defamation, Insult, and Content Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "20",
+      "chunk_size": "364"
+    },
+    "full_length": 364
+  },
+  {
+    "chunk_id": "chunk_59ef9b9c",
+    "text": "Article 15:\nWhoever uses information technology to insult or offend another person shall be punished by imprisonment for a term not exceeding one year and a fine not less than AED 150000 and not excee...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "15",
+      "chapter": "Chapter 5: Online Defamation, Insult, and Content Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "21",
+      "chunk_size": "237"
+    },
+    "full_length": 237
+  },
+  {
+    "chunk_id": "chunk_e0090d88",
+    "text": "Article 16:\nWhoever uses information technology to blackmail or threaten another person to compel them to do or refrain from doing an act shall be punished by imprisonment for a term not exceeding two...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "16",
+      "chapter": "Chapter 5: Online Defamation, Insult, and Content Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "22",
+      "chunk_size": "495"
+    },
+    "full_length": 495
+  },
+  {
+    "chunk_id": "chunk_88ad9250",
+    "text": "Article 17:\nWhoever creates, manages, or operates a website or electronic account for the purpose of promoting or facilitating terrorist activities, extremist ideologies, or content that incites hatre...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "17",
+      "chapter": "Chapter 5: Online Defamation, Insult, and Content Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "23",
+      "chunk_size": "387"
+    },
+    "full_length": 387
+  },
+  {
+    "chunk_id": "chunk_77c81850",
+    "text": "Article 18:\nWhoever uses information technology to publish false news, rumours, or misleading information that is likely to harm public order, the national economy, or public health shall be punished ...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "18",
+      "chapter": "Chapter 5: Online Defamation, Insult, and Content Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "24",
+      "chunk_size": "346"
+    },
+    "full_length": 346
+  },
+  {
+    "chunk_id": "chunk_93a4ebaf",
+    "text": "ess than AED 200000 and not exceeding AED 1000000. If the false information is published during a state of emergency, pandemic, or crisis, the penalty shall be doubled.\n\nCHAPTER 6: Social Media and Pl...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "18",
+      "chapter": "Chapter 5: Online Defamation, Insult, and Content Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "25",
+      "chunk_size": "224"
+    },
+    "full_length": 224
+  },
+  {
+    "chunk_id": "chunk_f4189f9b",
+    "text": "Article 19:\nWhoever creates a fictitious website, electronic account, or email, or falsely attributes one of these to a real person with the intent to commit fraud, cause harm, or impersonate that per...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "19",
+      "chapter": "Chapter 6: Social Media and Platform-Specific Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "26",
+      "chunk_size": "338"
+    },
+    "full_length": 338
+  },
+  {
+    "chunk_id": "chunk_f155f955",
+    "text": "Article 20:\nWhoever uses social media platforms to promote, organize, or manage illegal collections of donations without proper authorization from competent authorities shall be punished by imprisonme...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "20",
+      "chapter": "Chapter 6: Social Media and Platform-Specific Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "27",
+      "chunk_size": "389"
+    },
+    "full_length": 389
+  },
+  {
+    "chunk_id": "chunk_64b91f6d",
+    "text": "Article 21:\nWhoever uses information technology to operate, promote, or facilitate online gambling shall be punished by imprisonment for a term not exceeding two years and a fine not less than AED 250...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "21",
+      "chapter": "Chapter 6: Social Media and Platform-Specific Offences",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "28",
+      "chunk_size": "407"
+    },
+    "full_length": 407
+  },
+  {
+    "chunk_id": "chunk_20b13571",
+    "text": "Article 22:\nThe penalty shall be doubled in the following aggravating circumstances:\n(a) If the offender is a public official and commits the crime by exploiting their position or authority.\n(b) If th...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "22",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "29",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_d5e296b5",
+    "text": "offender uses advanced techniques to conceal their identity or evade detection.",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "22",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "30",
+      "chunk_size": "79"
+    },
+    "full_length": 79
+  },
+  {
+    "chunk_id": "chunk_69bdfdcb",
+    "text": "Article 23:\nAny person who attempts to commit any of the crimes set forth in this Law shall be punished with a penalty not exceeding half the maximum penalty prescribed for the completed crime.",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "23",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "31",
+      "chunk_size": "193"
+    },
+    "full_length": 193
+  },
+  {
+    "chunk_id": "chunk_2406a121",
+    "text": "Article 24:\nThe court may order, in addition to the prescribed penalty, one or more of the following measures:\n(a) Confiscation of devices, programs, and tools used in the commission of the crime.\n(b)...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "24",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "32",
+      "chunk_size": "511"
+    },
+    "full_length": 511
+  },
+  {
+    "chunk_id": "chunk_843ff32a",
+    "text": "nt in one or more daily newspapers at the expense of the convicted person.",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "24",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "33",
+      "chunk_size": "74"
+    },
+    "full_length": 74
+  },
+  {
+    "chunk_id": "chunk_a6de381a",
+    "text": "Article 25:\nInternet service providers and website operators shall cooperate with the competent authorities in the investigation and prosecution of cybercrimes. They shall preserve electronic data and...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "25",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "34",
+      "chunk_size": "470"
+    },
+    "full_length": 470
+  },
+  {
+    "chunk_id": "chunk_de5af4d9",
+    "text": "Article 26:\nWhoever reports a cybercrime to the competent authorities before it is discovered, or provides information that leads to the identification and arrest of other offenders, may benefit from ...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "26",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "35",
+      "chunk_size": "274"
+    },
+    "full_length": 274
+  },
+  {
+    "chunk_id": "chunk_b0a6d09b",
+    "text": "Article 27:\nAny provision of Federal Decree-Law No. 5 of 2012 on Combating Cybercrimes, and any other provision that contradicts or conflicts with this Law, shall be repealed. Regulations and decision...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "27",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "36",
+      "chunk_size": "307"
+    },
+    "full_length": 307
+  },
+  {
+    "chunk_id": "chunk_13164a69",
+    "text": "Article 28:\nThis Law shall be published in the Official Gazette and shall come into force on January 2, 2022. The Public Prosecution shall have jurisdiction over the investigation and prosecution of a...",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "28",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "37",
+      "chunk_size": "511"
+    },
+    "full_length": 511
+  },
+  {
+    "chunk_id": "chunk_d24a6dc1",
+    "text": "=====================================\n\nEnd of UAE Cybercrime Law\nFederal Decree-Law No. 34 of 2021",
+    "metadata": {
+      "source": "uae_cybercrime_law.txt",
+      "law_name": "UAE Cybercrime Law (Federal Decree-Law No. 34 of 2021)",
+      "article_number": "28",
+      "chapter": "Chapter 7: Penalties, Aggravating Circumstances, and General Provisions",
+      "section": "",
+      "num_articles": "28",
+      "num_chapters": "7",
+      "chunk_index": "38",
+      "chunk_size": "98"
+    },
+    "full_length": 98
+  },
+  {
+    "chunk_id": "chunk_14dcede0",
+    "text": "UAE LABOUR LAW\nFederal Decree-Law No. 33 of 2021\nOn the Regulation of Labour Relations\n\n================================================================================\n\nPART ONE: GENERAL PROVISIONS A...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "preamble",
+      "chapter": "",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "0",
+      "chunk_size": "257"
+    },
+    "full_length": 257
+  },
+  {
+    "chunk_id": "chunk_9aaa27f1",
+    "text": "Article 1:\nThis Law shall be known as the \"Regulation of Labour Relations Law.\" It regulates the relationship between employers and workers in the private sector within the United Arab Emirates. The p...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "1",
+      "chapter": "Chapter 1: Definitions and Scope of Application",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "1",
+      "chunk_size": "406"
+    },
+    "full_length": 406
+  },
+  {
+    "chunk_id": "chunk_69b500e8",
+    "text": "Article 2:\nFor the purposes of this Law, the following terms shall have the meanings assigned to them:\n(a) \"Employer\" means any natural or legal person who employs one or more workers in return for a ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "2",
+      "chapter": "Chapter 1: Definitions and Scope of Application",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "2",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_f47bad6e",
+    "text": "es, bonuses, and any other benefits.\n(d) \"Probation Period\" means a specified period at the beginning of employment during which the employer may assess the worker's suitability.\n(e) \"End of Service G...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "2",
+      "chapter": "Chapter 1: Definitions and Scope of Application",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "3",
+      "chunk_size": "321"
+    },
+    "full_length": 321
+  },
+  {
+    "chunk_id": "chunk_dd663c91",
+    "text": "Article 3:\nThis Law shall apply to all employers and workers in the private sector, free zones, and domestic workers, subject to specific provisions. The following categories are excluded from the sco...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "3",
+      "chapter": "Chapter 1: Definitions and Scope of Application",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "4",
+      "chunk_size": "473"
+    },
+    "full_length": 473
+  },
+  {
+    "chunk_id": "chunk_d5f35787",
+    "text": "Article 4:\nAll employment contracts in the United Arab Emirates shall be of a fixed-term nature, with a maximum duration of three years, renewable by mutual agreement. Employment contracts previously ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "4",
+      "chapter": "Chapter 2: Employment Contracts",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "5",
+      "chunk_size": "422"
+    },
+    "full_length": 422
+  },
+  {
+    "chunk_id": "chunk_5cf1e8d2",
+    "text": "Article 5:\nThe employment contract shall specify:\n(a) The names and addresses of both parties.\n(b) The date of commencement of employment.\n(c) The nature and type of work to be performed.\n(d) The work...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "5",
+      "chapter": "Chapter 2: Employment Contracts",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "6",
+      "chunk_size": "511"
+    },
+    "full_length": 511
+  },
+  {
+    "chunk_id": "chunk_00a1a457",
+    "text": "t.\n(i) The notice period for termination.\n(j) Any other conditions agreed upon by both parties that do not conflict with this Law.",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "5",
+      "chapter": "Chapter 2: Employment Contracts",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "7",
+      "chunk_size": "130"
+    },
+    "full_length": 130
+  },
+  {
+    "chunk_id": "chunk_e7c92ddf",
+    "text": "Article 6:\nThe probation period shall not exceed six months from the date of commencement of employment. During the probation period, either party may terminate the employment contract by giving fourt...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "6",
+      "chapter": "Chapter 2: Employment Contracts",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "8",
+      "chunk_size": "456"
+    },
+    "full_length": 456
+  },
+  {
+    "chunk_id": "chunk_f1927e8f",
+    "text": "Article 7:\nIf the worker wishes to leave the State during the probation period, they may not return on a new work permit for a period of one year from the date of departure, unless they obtain the con...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "7",
+      "chapter": "Chapter 2: Employment Contracts",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "9",
+      "chunk_size": "437"
+    },
+    "full_length": 437
+  },
+  {
+    "chunk_id": "chunk_4444c3fa",
+    "text": "Article 8:\nThe maximum ordinary working hours shall be eight hours per day or forty-eight hours per week. The working hours may be reduced for arduous or hazardous work as determined by the Ministry o...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "8",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "10",
+      "chunk_size": "342"
+    },
+    "full_length": 342
+  },
+  {
+    "chunk_id": "chunk_e5a72dbf",
+    "text": "Article 9:\nA worker shall not be required to work more than five consecutive hours without a break of not less than one hour for rest, meals, and prayer. Such break periods shall not be counted as par...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "9",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "11",
+      "chunk_size": "418"
+    },
+    "full_length": 418
+  },
+  {
+    "chunk_id": "chunk_3682cf89",
+    "text": "Article 10:\nIf the circumstances of work require the worker to work beyond the ordinary working hours, the additional hours shall be considered overtime. Overtime shall not exceed two hours per day, u...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "10",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "12",
+      "chunk_size": "426"
+    },
+    "full_length": 426
+  },
+  {
+    "chunk_id": "chunk_943fa5bb",
+    "text": "ourly wage plus an additional twenty-five percent. If the overtime is performed between 10:00 PM and 4:00 AM, the worker shall be entitled to the basic hourly wage plus an additional fifty percent. Wo...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "10",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "13",
+      "chunk_size": "313"
+    },
+    "full_length": 313
+  },
+  {
+    "chunk_id": "chunk_9f499194",
+    "text": "Article 11:\nA worker who has completed one year of continuous service shall be entitled to annual leave as follows:\n(a) Thirty calendar days per year for workers who have completed one year of service...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "11",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "14",
+      "chunk_size": "453"
+    },
+    "full_length": 453
+  },
+  {
+    "chunk_id": "chunk_046e1de6",
+    "text": "rker's interests and the operational requirements. The worker may carry forward up to half of their annual leave entitlement to the following year. The employer shall pay the worker their full wage fo...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "11",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "15",
+      "chunk_size": "269"
+    },
+    "full_length": 269
+  },
+  {
+    "chunk_id": "chunk_02b70717",
+    "text": "Article 12:\nA worker shall be entitled to sick leave of up to ninety days per year, calculated as follows:\n(a) The first fifteen days: full pay.\n(b) The next thirty days: half pay.\n(c) The subsequent ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "12",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "16",
+      "chunk_size": "414"
+    },
+    "full_length": 414
+  },
+  {
+    "chunk_id": "chunk_30888f1a",
+    "text": "ntitled to sick leave during the probation period. The employer may terminate the employment of a worker who exhausts their sick leave and is unable to resume work, subject to the payment of all end-o...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "12",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "17",
+      "chunk_size": "219"
+    },
+    "full_length": 219
+  },
+  {
+    "chunk_id": "chunk_b62047f3",
+    "text": "Article 13:\nA female worker shall be entitled to maternity leave of sixty days, distributed as follows:\n(a) Forty-five days with full pay.\n(b) Fifteen days with half pay.\nIf the female worker gives bi...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "13",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "18",
+      "chunk_size": "488"
+    },
+    "full_length": 488
+  },
+  {
+    "chunk_id": "chunk_18bfbce2",
+    "text": "Article 14:\nA male worker shall be entitled to paternity leave of five working days, to be taken within six months of the birth of the child. The leave may be taken consecutively or intermittently wit...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "14",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "19",
+      "chunk_size": "225"
+    },
+    "full_length": 225
+  },
+  {
+    "chunk_id": "chunk_8777207d",
+    "text": "Article 15:\nA worker shall be entitled to the following special leave with full pay:\n(a) Bereavement leave: Five working days upon the death of a spouse, and three working days upon the death of a par...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "15",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "20",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_0e11096b",
+    "text": "days per year for workers enrolled in an accredited educational institution within the State, provided the worker has completed two years of continuous service.\n\nCHAPTER 4: Wages and Payment",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "15",
+      "chapter": "Chapter 3: Working Hours, Leave, and Rest Periods",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "21",
+      "chunk_size": "190"
+    },
+    "full_length": 190
+  },
+  {
+    "chunk_id": "chunk_96bb7ed1",
+    "text": "Article 16:\nThe wage shall be paid in the currency of the United Arab Emirates (AED) through the Wages Protection System (WPS) approved by the Central Bank of the UAE. The employer shall pay the wage ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "16",
+      "chapter": "Chapter 4: Wages and Payment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "22",
+      "chunk_size": "483"
+    },
+    "full_length": 483
+  },
+  {
+    "chunk_id": "chunk_41962c4d",
+    "text": "Article 17:\nThe employer shall not deduct more than the following from the worker's wage:\n(a) Repayment of advances or loans, not exceeding ten percent of the monthly wage.\n(b) Contributions to end-of...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "17",
+      "chapter": "Chapter 4: Wages and Payment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "23",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_86d80681",
+    "text": "the amount does not exceed five days' wages per month and the worker has been given the opportunity to be heard.\nIn no case shall the total deductions exceed fifty percent of the worker's monthly wage...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "17",
+      "chapter": "Chapter 4: Wages and Payment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "24",
+      "chunk_size": "201"
+    },
+    "full_length": 201
+  },
+  {
+    "chunk_id": "chunk_5d8cee16",
+    "text": "Article 18:\nIf the worker works on a piece-rate, commission, or production basis, the employer shall ensure that the worker earns at least the minimum wage determined by the Council of Ministers. The ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "18",
+      "chapter": "Chapter 4: Wages and Payment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "25",
+      "chunk_size": "398"
+    },
+    "full_length": 398
+  },
+  {
+    "chunk_id": "chunk_2d8ada2c",
+    "text": "Article 19:\nThe employment contract may be terminated in the following circumstances:\n(a) Expiry of the contract term, unless renewed.\n(b) Written agreement of both parties.\n(c) Death of the worker, o...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "19",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "26",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_a3f68e5f",
+    "text": "rmination by either party in accordance with the provisions of this Law.",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "19",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "27",
+      "chunk_size": "72"
+    },
+    "full_length": 72
+  },
+  {
+    "chunk_id": "chunk_8ec383bf",
+    "text": "Article 20:\nEither party may terminate the employment contract for a legitimate reason by giving the other party written notice of not less than thirty days if the worker has served for less than five...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "20",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "28",
+      "chunk_size": "486"
+    },
+    "full_length": 486
+  },
+  {
+    "chunk_id": "chunk_e1e1ccf3",
+    "text": "Article 21:\nThe employer may terminate the worker's employment without notice or end-of-service gratuity in the following cases:\n(a) The worker assumes a false identity or submits forged documents.\n(b...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "21",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "29",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_df4f7470",
+    "text": "e worker or others, provided such instructions are displayed in writing at a conspicuous place.\n(d) The worker fails to perform basic duties despite receiving written warnings.\n(e) The worker disclose...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "21",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "30",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_9967c0ca",
+    "text": "without a legitimate reason for more than twenty intermittent days or seven consecutive days in one year.",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "21",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "31",
+      "chunk_size": "105"
+    },
+    "full_length": 105
+  },
+  {
+    "chunk_id": "chunk_972ad1e8",
+    "text": "Article 22:\nThe worker may leave work without notice while retaining all legal rights in the following cases:\n(a) The employer fails to fulfill contractual or legal obligations towards the worker.\n(b)...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "22",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "32",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_f1e7b513",
+    "text": "antially different from the work agreed upon in the contract without the worker's consent.\n\nCHAPTER 6: End of Service Gratuity",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "22",
+      "chapter": "Chapter 5: Termination of Employment",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "33",
+      "chunk_size": "126"
+    },
+    "full_length": 126
+  },
+  {
+    "chunk_id": "chunk_0530c6b2",
+    "text": "Article 23:\nA worker who has completed one or more years of continuous service shall be entitled to an end-of-service gratuity upon termination of employment. The gratuity shall be calculated as follo...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "23",
+      "chapter": "Chapter 6: End of Service Gratuity",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "34",
+      "chunk_size": "445"
+    },
+    "full_length": 445
+  },
+  {
+    "chunk_id": "chunk_c9776dc1",
+    "text": "ot exceed the equivalent of two years' basic wage. Days of absence from work without pay shall not be included in the calculation of the period of service.",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "23",
+      "chapter": "Chapter 6: End of Service Gratuity",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "35",
+      "chunk_size": "155"
+    },
+    "full_length": 155
+  },
+  {
+    "chunk_id": "chunk_8993bd2b",
+    "text": "Article 24:\nIf the worker's service is less than one year, no gratuity shall be payable. The gratuity shall be calculated based on the last basic wage the worker was receiving at the date of terminati...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "24",
+      "chapter": "Chapter 6: End of Service Gratuity",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "36",
+      "chunk_size": "411"
+    },
+    "full_length": 411
+  },
+  {
+    "chunk_id": "chunk_90858aa4",
+    "text": "Article 25:\nA worker who is terminated for any of the reasons specified in Article 21 shall not be entitled to end-of-service gratuity. In all other cases of termination, including resignation by the ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "25",
+      "chapter": "Chapter 6: End of Service Gratuity",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "37",
+      "chunk_size": "393"
+    },
+    "full_length": 393
+  },
+  {
+    "chunk_id": "chunk_e8942c9d",
+    "text": "Article 26:\nThe employer shall provide a safe and healthy working environment for workers and shall take all necessary measures to protect workers from occupational hazards and diseases. The employer ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "26",
+      "chapter": "Chapter 7: Workplace Safety and Worker Protections",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "38",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_5fb42407",
+    "text": "Provide first aid facilities and trained first aid personnel.\n(e) Report any work-related injury or occupational disease to the competent authority within forty-eight hours of its occurrence.",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "26",
+      "chapter": "Chapter 7: Workplace Safety and Worker Protections",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "39",
+      "chunk_size": "191"
+    },
+    "full_length": 191
+  },
+  {
+    "chunk_id": "chunk_3d0553d2",
+    "text": "Article 27:\nThe employer shall provide adequate accommodation for workers if accommodation is a condition of the employment contract. The accommodation shall meet the standards prescribed by the compe...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "27",
+      "chapter": "Chapter 7: Workplace Safety and Worker Protections",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "40",
+      "chunk_size": "423"
+    },
+    "full_length": 423
+  },
+  {
+    "chunk_id": "chunk_af7fb384",
+    "text": "Article 28:\nA worker who sustains an injury or contracts an occupational disease arising out of and in the course of employment shall be entitled to:\n(a) Medical treatment and hospitalization at the e...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "28",
+      "chapter": "Chapter 7: Workplace Safety and Worker Protections",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "41",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_bedbb0b2",
+    "text": "rtion to the degree of disability.\n(d) If the injury results in death, the worker's family shall be entitled to compensation equivalent to twenty-four months of the worker's basic wage, with a minimum...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "28",
+      "chapter": "Chapter 7: Workplace Safety and Worker Protections",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "42",
+      "chunk_size": "309"
+    },
+    "full_length": 309
+  },
+  {
+    "chunk_id": "chunk_8bce9c4a",
+    "text": "Article 29:\nDiscrimination in employment on the basis of race, color, sex, religion, national origin, ethnic origin, or disability is prohibited. The employer shall not discriminate between workers pe...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "29",
+      "chapter": "Chapter 8: Anti-Discrimination, Harassment, and Equal Opportunity",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "43",
+      "chunk_size": "464"
+    },
+    "full_length": 464
+  },
+  {
+    "chunk_id": "chunk_1a747496",
+    "text": "Article 30:\nSexual harassment, bullying, and any form of verbal, physical, or psychological violence against workers in the workplace is strictly prohibited. The employer shall establish clear policie...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "30",
+      "chapter": "Chapter 8: Anti-Discrimination, Harassment, and Equal Opportunity",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "44",
+      "chunk_size": "364"
+    },
+    "full_length": 364
+  },
+  {
+    "chunk_id": "chunk_ce4a7862",
+    "text": "Article 31:\nFemale workers shall be entitled to equal remuneration for work of equal value. An employer shall not terminate a female worker or give her notice of termination during pregnancy or matern...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "31",
+      "chapter": "Chapter 8: Anti-Discrimination, Harassment, and Equal Opportunity",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "45",
+      "chunk_size": "370"
+    },
+    "full_length": 370
+  },
+  {
+    "chunk_id": "chunk_892b8640",
+    "text": "Article 32:\nLabour disputes shall be resolved through the following procedures:\n(a) The worker or employer shall first file a complaint with the Ministry of Human Resources and Emiratisation, which sh...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "32",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "46",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_5d9cf457",
+    "text": "for claims not exceeding AED 100000.\n(d) The worker may file a complaint within one year of the date on which the disputed right became due.",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "32",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "47",
+      "chunk_size": "140"
+    },
+    "full_length": 140
+  },
+  {
+    "chunk_id": "chunk_f9ea130a",
+    "text": "Article 33:\nThe employer shall not terminate or threaten to terminate the worker for filing a complaint or participating in proceedings before the Ministry or the Labour Court. Any such termination sh...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "33",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "48",
+      "chunk_size": "473"
+    },
+    "full_length": 473
+  },
+  {
+    "chunk_id": "chunk_751ccda2",
+    "text": "Article 34:\nThe employer shall maintain complete records of all workers, including personal details, employment dates, wages, leave records, and any disciplinary actions. Such records shall be maintai...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "34",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "49",
+      "chunk_size": "352"
+    },
+    "full_length": 352
+  },
+  {
+    "chunk_id": "chunk_2ce75b29",
+    "text": "Article 35:\nEmployment contracts and arrangements that conflict with the provisions of this Law shall be amended to comply with this Law within one year of its effective date. Any clause in an employm...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "35",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "50",
+      "chunk_size": "288"
+    },
+    "full_length": 288
+  },
+  {
+    "chunk_id": "chunk_703ab9e4",
+    "text": "Article 36:\nThe employer shall not require the worker to surrender their passport, identity documents, or personal documents. Any confiscation of such documents by the employer shall constitute a crim...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "36",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "51",
+      "chunk_size": "283"
+    },
+    "full_length": 283
+  },
+  {
+    "chunk_id": "chunk_922ae948",
+    "text": "Article 37:\nWorkers performing domestic work shall be subject to the provisions of this Law to the extent that they do not conflict with the special regulations governing domestic workers. The Ministr...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "37",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "52",
+      "chunk_size": "328"
+    },
+    "full_length": 328
+  },
+  {
+    "chunk_id": "chunk_42b08ccb",
+    "text": "Article 38:\nForeign workers shall be entitled to repatriation to their home country at the expense of the employer upon termination of employment, unless the worker has moved to a new employer within ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "38",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "53",
+      "chunk_size": "361"
+    },
+    "full_length": 361
+  },
+  {
+    "chunk_id": "chunk_fb4fd31d",
+    "text": "Article 39:\nThe employer shall not employ workers without a valid work permit issued by the Ministry. Violation of this provision shall subject the employer to a fine of not less than AED 50000 for ea...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "39",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "54",
+      "chunk_size": "229"
+    },
+    "full_length": 229
+  },
+  {
+    "chunk_id": "chunk_78e6c600",
+    "text": "Article 40:\nJuvenile workers under the age of eighteen shall not be employed in hazardous or arduous work as determined by the Ministry. Juvenile workers shall not work more than six hours per day, wi...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "40",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "55",
+      "chunk_size": "324"
+    },
+    "full_length": 324
+  },
+  {
+    "chunk_id": "chunk_0ec42057",
+    "text": "Article 41:\nThe employer shall provide worker orientation programs upon commencement of employment, covering the worker's rights and obligations under this Law, safety procedures, and the grievance me...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "41",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "56",
+      "chunk_size": "208"
+    },
+    "full_length": 208
+  },
+  {
+    "chunk_id": "chunk_a4580da5",
+    "text": "Article 42:\nNon-competition clauses in employment contracts shall be valid only if they are limited in scope, time, and geography. Such clauses shall not exceed two years from the date of termination ...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "42",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "57",
+      "chunk_size": "278"
+    },
+    "full_length": 278
+  },
+  {
+    "chunk_id": "chunk_0f9feb1a",
+    "text": "Article 43:\nThe employer shall grant the worker a certificate of service upon termination of employment, free of charge, specifying the period of employment, the nature of work performed, and the last...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "43",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "58",
+      "chunk_size": "345"
+    },
+    "full_length": 345
+  },
+  {
+    "chunk_id": "chunk_81e8d56c",
+    "text": "Article 44:\nAny provision of Federal Law No. 8 of 1980 Concerning the Regulation of Labour Relations, and any other provision that contradicts or conflicts with this Law, shall be repealed. Regulation...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "44",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "59",
+      "chunk_size": "317"
+    },
+    "full_length": 317
+  },
+  {
+    "chunk_id": "chunk_f9f82000",
+    "text": "Article 45:\nThis Law shall be published in the Official Gazette and shall come into force on February 2, 2022.\n\n================================================================================\n\nEnd of...",
+    "metadata": {
+      "source": "uae_labour_law.txt",
+      "law_name": "UAE Labour Law (Federal Decree-Law No. 33 of 2021)",
+      "article_number": "45",
+      "chapter": "Chapter 9: Dispute Resolution",
+      "section": "",
+      "num_articles": "48",
+      "num_chapters": "9",
+      "chunk_index": "60",
+      "chunk_size": "249"
+    },
+    "full_length": 249
+  },
+  {
+    "chunk_id": "chunk_73bd858b",
+    "text": "UAE FEDERAL PENAL CODE\nFederal Decree-Law No. 31 of 2021\nOn the Issuance of the Crimes and Penalties Law\n\n================================================================================\n\nPART ONE: GE...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "preamble",
+      "chapter": "",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "0",
+      "chunk_size": "250"
+    },
+    "full_length": 250
+  },
+  {
+    "chunk_id": "chunk_5e0fa163",
+    "text": "Article 1:\nThis Law shall be known as the \"Crimes and Penalties Law.\" It shall apply to all crimes committed within the territory of the United Arab Emirates, including its land territory, territorial...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "1",
+      "chapter": "Chapter 1: Scope and Application",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "1",
+      "chunk_size": "441"
+    },
+    "full_length": 441
+  },
+  {
+    "chunk_id": "chunk_3c9b9c7a",
+    "text": "Article 2:\nThe provisions of this Law shall apply to any person who commits a crime within the territory of the State, regardless of nationality, subject to the provisions of international treaties an...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "2",
+      "chapter": "Chapter 1: Scope and Application",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "2",
+      "chunk_size": "362"
+    },
+    "full_length": 362
+  },
+  {
+    "chunk_id": "chunk_ad08abad",
+    "text": "Article 3:\nThis Law shall apply to crimes committed outside the State in the following cases:\n(a) If the crime is committed on board a vessel or aircraft registered in the State.\n(b) If the perpetrato...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "3",
+      "chapter": "Chapter 1: Scope and Application",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "3",
+      "chunk_size": "511"
+    },
+    "full_length": 511
+  },
+  {
+    "chunk_id": "chunk_81711e2c",
+    "text": "which it was committed, provided the perpetrator is present in the State.\n(d) Crimes against the State's internal or external security, crimes of counterfeiting, or crimes relating to currency forgery...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "3",
+      "chapter": "Chapter 1: Scope and Application",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "4",
+      "chunk_size": "201"
+    },
+    "full_length": 201
+  },
+  {
+    "chunk_id": "chunk_9071a324",
+    "text": "Article 4:\nNo crime shall exist and no penalty shall be imposed except by virtue of a law that was in force at the time the act was committed. A law shall apply retroactively only if it contains provi...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "4",
+      "chapter": "Chapter 1: Scope and Application",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "5",
+      "chunk_size": "435"
+    },
+    "full_length": 435
+  },
+  {
+    "chunk_id": "chunk_9281c670",
+    "text": "Article 5:\nA person shall be presumed innocent until proven guilty by a competent court in a fair trial. The burden of proof lies with the prosecution.\n\nCHAPTER 2: Criminal Responsibility",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "5",
+      "chapter": "Chapter 1: Scope and Application",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "6",
+      "chunk_size": "187"
+    },
+    "full_length": 187
+  },
+  {
+    "chunk_id": "chunk_ec06dc34",
+    "text": "Article 6:\nCriminal responsibility is personal. No person shall be punished for a crime committed by another. Each individual bears responsibility only for their own acts or omissions that constitute ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "6",
+      "chapter": "Chapter 2: Criminal Responsibility",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "7",
+      "chunk_size": "234"
+    },
+    "full_length": 234
+  },
+  {
+    "chunk_id": "chunk_444a4a85",
+    "text": "Article 7:\nCriminal responsibility shall not apply to:\n(a) A person who has not attained the age of criminal responsibility as determined by the Juveniles Law.\n(b) A person who, at the time of committ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "7",
+      "chapter": "Chapter 2: Criminal Responsibility",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "8",
+      "chunk_size": "511"
+    },
+    "full_length": 511
+  },
+  {
+    "chunk_id": "chunk_c3b915c5",
+    "text": "e act by force or threat of imminent serious harm to themselves or their family.",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "7",
+      "chapter": "Chapter 2: Criminal Responsibility",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "9",
+      "chunk_size": "80"
+    },
+    "full_length": 80
+  },
+  {
+    "chunk_id": "chunk_755675bc",
+    "text": "Article 8:\nA person shall not be held criminally responsible for an act committed in the following circumstances:\n(a) Self-defense: The use of force necessary to repel an imminent unlawful aggression ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "8",
+      "chapter": "Chapter 2: Criminal Responsibility",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "10",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_bffc5b6c",
+    "text": "thority.\n(c) Exercise of right: An act committed in the legitimate exercise of a right recognized by law.",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "8",
+      "chapter": "Chapter 2: Criminal Responsibility",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "11",
+      "chunk_size": "105"
+    },
+    "full_length": 105
+  },
+  {
+    "chunk_id": "chunk_cf32cfae",
+    "text": "Article 9:\nConsent of the victim shall not constitute a justification for committing a crime unless the law provides otherwise. The commission of an offence against a person who has consented to the a...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "9",
+      "chapter": "Chapter 2: Criminal Responsibility",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "12",
+      "chunk_size": "356"
+    },
+    "full_length": 356
+  },
+  {
+    "chunk_id": "chunk_db8ca9e0",
+    "text": "Article 10:\nAn attempt to commit a felony is punishable even if the intended result does not occur, provided the perpetrator has commenced the execution of the crime by acts that lead directly to its ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "10",
+      "chapter": "Chapter 3: Attempted Crimes and Accomplices",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "13",
+      "chunk_size": "379"
+    },
+    "full_length": 379
+  },
+  {
+    "chunk_id": "chunk_25c4cb96",
+    "text": "Article 11:\nThe penalty for an attempted felony shall be as follows:\n(a) If the penalty for the completed crime is the death penalty, the attempted crime shall be punished by life imprisonment.\n(b) If...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "11",
+      "chapter": "Chapter 3: Attempted Crimes and Accomplices",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "14",
+      "chunk_size": "474"
+    },
+    "full_length": 474
+  },
+  {
+    "chunk_id": "chunk_0fa54f44",
+    "text": "Article 12:\nAny person who participates in a crime as an accomplice shall be punished with the same penalty as the principal offender, unless the law provides otherwise. An accomplice is any person wh...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "12",
+      "chapter": "Chapter 3: Attempted Crimes and Accomplices",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "15",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_94f6dc54",
+    "text": "he acts preparatory to or facilitating the commission of the crime.\n(d) Provides the principal offender with weapons, tools, or any other means used in the commission of the crime, knowing that they w...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "12",
+      "chapter": "Chapter 3: Attempted Crimes and Accomplices",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "16",
+      "chunk_size": "260"
+    },
+    "full_length": 260
+  },
+  {
+    "chunk_id": "chunk_9adbf0f6",
+    "text": "Article 13:\nPenalties shall be classified as follows:\n(a) Original penalties: death penalty, life imprisonment, temporary imprisonment, confinement, detention, and fines.\n(b) Accessory penalties: depr...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "13",
+      "chapter": "Chapter 4: Types of Penalties",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "17",
+      "chunk_size": "455"
+    },
+    "full_length": 455
+  },
+  {
+    "chunk_id": "chunk_19000029",
+    "text": "Article 14:\nTemporary imprisonment shall be for a term not less than three years and not exceeding fifteen years, unless the law provides otherwise. Imprisonment shall be served in the places designat...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "14",
+      "chapter": "Chapter 4: Types of Penalties",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "18",
+      "chunk_size": "329"
+    },
+    "full_length": 329
+  },
+  {
+    "chunk_id": "chunk_52d6e90a",
+    "text": "Article 15:\nA fine is the obligation to pay the amount specified in the judgment to the State Treasury. A fine for a felony shall not be less than AED 100000. A fine for a misdemeanor shall not be les...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "15",
+      "chapter": "Chapter 4: Types of Penalties",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "19",
+      "chunk_size": "383"
+    },
+    "full_length": 383
+  },
+  {
+    "chunk_id": "chunk_b8f3fe19",
+    "text": "Article 16:\nThe following are aggravating circumstances that may increase the penalty:\n(a) Recidivism: If the offender has been previously convicted of a felony or misdemeanor and commits a similar of...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "16",
+      "chapter": "Chapter 5: Aggravating and Mitigating Circumstances",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "20",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_e64154c2",
+    "text": "h disabilities.\n(d) Commission of the crime with premeditation and deliberation.\n(e) Commission of the crime using poisonous or explosive substances.",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "16",
+      "chapter": "Chapter 5: Aggravating and Mitigating Circumstances",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "21",
+      "chunk_size": "149"
+    },
+    "full_length": 149
+  },
+  {
+    "chunk_id": "chunk_4c0e4c25",
+    "text": "Article 17:\nThe court may, in its discretion, reduce the penalty below the minimum prescribed by law if it finds mitigating circumstances, provided that:\n(a) If the penalty prescribed is the death pen...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "17",
+      "chapter": "Chapter 5: Aggravating and Mitigating Circumstances",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "22",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_547e2556",
+    "text": "prescribed is temporary imprisonment, it may be reduced to confinement for a term not less than six months.\n(d) If the penalty prescribed is confinement, it may be reduced to a fine.",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "17",
+      "chapter": "Chapter 5: Aggravating and Mitigating Circumstances",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "23",
+      "chunk_size": "182"
+    },
+    "full_length": 182
+  },
+  {
+    "chunk_id": "chunk_ac7d5883",
+    "text": "Article 18:\nThe court may suspend the execution of the penalty for a period not exceeding three years if the convicted person has not been previously sentenced to imprisonment for a felony or misdemea...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "18",
+      "chapter": "Chapter 5: Aggravating and Mitigating Circumstances",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "24",
+      "chunk_size": "322"
+    },
+    "full_length": 322
+  },
+  {
+    "chunk_id": "chunk_b2dfc1dd",
+    "text": "character of the offender justify such suspension. If the convicted person commits a new crime during the suspension period, the suspended penalty shall be enforced.\n\n=================================...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "18",
+      "chapter": "Chapter 5: Aggravating and Mitigating Circumstances",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "25",
+      "chunk_size": "332"
+    },
+    "full_length": 332
+  },
+  {
+    "chunk_id": "chunk_3a7479ec",
+    "text": "Article 19:\nWhoever intentionally and with premeditation kills another person shall be punished with the death penalty. Premeditation means a calm and deliberate intent formed before the commission of...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "19",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "26",
+      "chunk_size": "343"
+    },
+    "full_length": 343
+  },
+  {
+    "chunk_id": "chunk_b23a6414",
+    "text": "Article 20:\nWhoever intentionally kills another person without premeditation shall be punished by life imprisonment or temporary imprisonment for a term not less than seven years. The absence of preme...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "20",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "27",
+      "chunk_size": "310"
+    },
+    "full_length": 310
+  },
+  {
+    "chunk_id": "chunk_e25e1342",
+    "text": "Article 21:\nWhoever unintentionally causes the death of another person through negligence, recklessness, failure to observe laws and regulations, or lack of skill in their profession shall be punished...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "21",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "28",
+      "chunk_size": "461"
+    },
+    "full_length": 461
+  },
+  {
+    "chunk_id": "chunk_414f03a0",
+    "text": "Article 22:\nWhoever intentionally assaults another person and causes them permanent disability, such as loss of sight, hearing, speech, or a limb, or permanent disfigurement, shall be punished by impr...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "22",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "29",
+      "chunk_size": "440"
+    },
+    "full_length": 440
+  },
+  {
+    "chunk_id": "chunk_bd3f8c00",
+    "text": "Article 23:\nWhoever intentionally assaults another person and causes them injury or illness that renders them unable to perform their personal activities for a period exceeding twenty days shall be pu...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "23",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "30",
+      "chunk_size": "316"
+    },
+    "full_length": 316
+  },
+  {
+    "chunk_id": "chunk_39072e99",
+    "text": "Article 24:\nWhoever intentionally assaults another person causing injury or illness that does not exceed twenty days of incapacity shall be punished by imprisonment for a term not exceeding one year a...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "24",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "31",
+      "chunk_size": "354"
+    },
+    "full_length": 354
+  },
+  {
+    "chunk_id": "chunk_5885a5a9",
+    "text": "Article 25:\nWhoever by negligence, recklessness, or failure to observe regulations causes bodily harm to another person that results in incapacity exceeding twenty days shall be punished by imprisonme...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "25",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "32",
+      "chunk_size": "293"
+    },
+    "full_length": 293
+  },
+  {
+    "chunk_id": "chunk_2cd694cf",
+    "text": "Article 26:\nWhoever administers poison or a harmful substance to another person with intent to cause harm but not death, resulting in illness or incapacity, shall be punished by imprisonment for a ter...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "26",
+      "chapter": "Chapter 1: Crimes Against Life and Bodily Integrity",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "33",
+      "chunk_size": "433"
+    },
+    "full_length": 433
+  },
+  {
+    "chunk_id": "chunk_a990438b",
+    "text": "Article 27:\nWhoever attributes to another person, by any means of publicity, an act that would subject them to punishment or contempt by others shall be punished by imprisonment for a term not exceedi...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "27",
+      "chapter": "Chapter 2: Crimes Against Honor and Reputation",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "34",
+      "chunk_size": "461"
+    },
+    "full_length": 461
+  },
+  {
+    "chunk_id": "chunk_a0b1e5cf",
+    "text": "Article 28:\nWhoever insults another person by attributing to them a defect or condition that would diminish their standing, without specifying a particular act, shall be punished by imprisonment for a...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "28",
+      "chapter": "Chapter 2: Crimes Against Honor and Reputation",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "35",
+      "chunk_size": "287"
+    },
+    "full_length": 287
+  },
+  {
+    "chunk_id": "chunk_95fadaca",
+    "text": "Article 29:\nWhoever publicly insults another person, whether by word, gesture, writing, or electronic means, in a manner that affects their dignity or honor shall be punished by imprisonment for a ter...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "29",
+      "chapter": "Chapter 2: Crimes Against Honor and Reputation",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "36",
+      "chunk_size": "390"
+    },
+    "full_length": 390
+  },
+  {
+    "chunk_id": "chunk_3ea736df",
+    "text": "Article 30:\nDefamation and insult committed through electronic means, social media platforms, or information technology systems shall be punished by imprisonment for a term not exceeding two years and...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "30",
+      "chapter": "Chapter 2: Crimes Against Honor and Reputation",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "37",
+      "chunk_size": "283"
+    },
+    "full_length": 283
+  },
+  {
+    "chunk_id": "chunk_fa1f91e2",
+    "text": "Article 31:\nThe truth of the imputed act shall be a defense in cases of defamation against a public official if the act relates to the performance of their public duties and the accused proves the tru...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "31",
+      "chapter": "Chapter 2: Crimes Against Honor and Reputation",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "38",
+      "chunk_size": "332"
+    },
+    "full_length": 332
+  },
+  {
+    "chunk_id": "chunk_ddad1ba2",
+    "text": "Article 32:\nWhoever kidnaps, detains, or confines a person without legal authority shall be punished by imprisonment for a term not less than five years and not exceeding ten years and a fine not less...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "32",
+      "chapter": "Chapter 3: Crimes Against Personal Liberty",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "39",
+      "chunk_size": "459"
+    },
+    "full_length": 459
+  },
+  {
+    "chunk_id": "chunk_3190112d",
+    "text": "Article 33:\nWhoever threatens another person with harm to their life, property, or reputation, whether verbally, in writing, or through electronic means, in order to compel them to do or refrain from ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "33",
+      "chapter": "Chapter 3: Crimes Against Personal Liberty",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "40",
+      "chunk_size": "487"
+    },
+    "full_length": 487
+  },
+  {
+    "chunk_id": "chunk_78710e19",
+    "text": "Article 34:\nWhoever unlawfully enters or remains in the residence of another person against the will of the occupant shall be punished by imprisonment for a term not exceeding one year and a fine not ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "34",
+      "chapter": "Chapter 3: Crimes Against Personal Liberty",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "41",
+      "chunk_size": "372"
+    },
+    "full_length": 372
+  },
+  {
+    "chunk_id": "chunk_6fd45003",
+    "text": "Article 35:\nWhoever compels another person by force, threat, or exploitation of a position of authority to engage in forced labor or servitude shall be punished by imprisonment for a term not less tha...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "35",
+      "chapter": "Chapter 3: Crimes Against Personal Liberty",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "42",
+      "chunk_size": "411"
+    },
+    "full_length": 411
+  },
+  {
+    "chunk_id": "chunk_060dfea9",
+    "text": "Article 36:\nWhoever steals movable property belonging to another person shall be punished by imprisonment for a term not less than one year and not exceeding three years and a fine not exceeding AED 5...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "36",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "43",
+      "chunk_size": "331"
+    },
+    "full_length": 331
+  },
+  {
+    "chunk_id": "chunk_aa71cb3c",
+    "text": "Article 37:\nThe penalty for theft shall be imprisonment for a term not less than three years and not exceeding seven years if the theft is committed in any of the following circumstances:\n(a) At night...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "37",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "44",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_aa09d8f5",
+    "text": "employer's premises.\n(f) By the use of violence or threat against the victim.",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "37",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "45",
+      "chunk_size": "77"
+    },
+    "full_length": 77
+  },
+  {
+    "chunk_id": "chunk_a77e2287",
+    "text": "Article 38:\nWhoever commits robbery, which is the theft of property by use of force or threat of force against the person of the victim, shall be punished by imprisonment for a term not less than five...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "38",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "46",
+      "chunk_size": "499"
+    },
+    "full_length": 499
+  },
+  {
+    "chunk_id": "chunk_3a71bb23",
+    "text": "Article 39:\nWhoever obtains for themselves or for another person money, a movable property, a document, or a signature on a document by means of fraud, deception, or the assumption of a false identity...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "39",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "47",
+      "chunk_size": "308"
+    },
+    "full_length": 308
+  },
+  {
+    "chunk_id": "chunk_95f9572c",
+    "text": "g three years and a fine not exceeding AED 100000. If the fraud is committed against a public entity or involves public funds, the penalty shall be imprisonment for a term not less than two years and ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "39",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "48",
+      "chunk_size": "261"
+    },
+    "full_length": 261
+  },
+  {
+    "chunk_id": "chunk_063bce5a",
+    "text": "Article 40:\nWhoever embezzles money, documents, or property entrusted to them by virtue of their employment, profession, or official capacity shall be punished by imprisonment for a term not exceeding...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "40",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "49",
+      "chunk_size": "439"
+    },
+    "full_length": 439
+  },
+  {
+    "chunk_id": "chunk_73a72bbd",
+    "text": "Article 41:\nWhoever breaches trust by misappropriating, wasting, or damaging money or property delivered to them under a contract of lease, pledge, loan for use, deposit, or agency shall be punished b...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "41",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "50",
+      "chunk_size": "288"
+    },
+    "full_length": 288
+  },
+  {
+    "chunk_id": "chunk_18988980",
+    "text": "Article 42:\nWhoever forges an official document, whether by alteration, fabrication, or counterfeiting, shall be punished by imprisonment for a term not less than three years and not exceeding ten yea...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "42",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "51",
+      "chunk_size": "476"
+    },
+    "full_length": 476
+  },
+  {
+    "chunk_id": "chunk_37bc6956",
+    "text": "Article 43:\nWhoever intentionally destroys, damages, or renders useless movable or immovable property belonging to another person shall be punished by imprisonment for a term not exceeding two years a...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "43",
+      "chapter": "Chapter 4: Crimes Against Property",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "52",
+      "chunk_size": "456"
+    },
+    "full_length": 456
+  },
+  {
+    "chunk_id": "chunk_7da82e4d",
+    "text": "Article 44:\nWhoever is found in a state of intoxication in a public place or causes a disturbance due to intoxication shall be punished by imprisonment for a term not exceeding six months and a fine n...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "44",
+      "chapter": "Chapter 5: Crimes Against Public Order",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "53",
+      "chunk_size": "371"
+    },
+    "full_length": 371
+  },
+  {
+    "chunk_id": "chunk_b14dbc06",
+    "text": "Article 45:\nWhoever is found gambling or operating a gambling establishment or online gambling platform shall be punished by imprisonment for a term not exceeding two years and a fine not exceeding AE...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "45",
+      "chapter": "Chapter 5: Crimes Against Public Order",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "54",
+      "chunk_size": "288"
+    },
+    "full_length": 288
+  },
+  {
+    "chunk_id": "chunk_b181caf3",
+    "text": "Article 46:\nWhoever begs in public places shall be punished by imprisonment for a term not exceeding three months and a fine not exceeding AED 5000 or by either penalty. If the begging involves the ex...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "46",
+      "chapter": "Chapter 5: Crimes Against Public Order",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "55",
+      "chunk_size": "376"
+    },
+    "full_length": 376
+  },
+  {
+    "chunk_id": "chunk_54d337da",
+    "text": "Article 47:\nWhoever publicly incites others to commit crimes or advocates for ideas that undermine public order or national unity shall be punished by imprisonment for a term not exceeding five years ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "47",
+      "chapter": "Chapter 5: Crimes Against Public Order",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "56",
+      "chunk_size": "344"
+    },
+    "full_length": 344
+  },
+  {
+    "chunk_id": "chunk_808ecf8c",
+    "text": "Article 48:\nWhoever establishes, organizes, or manages an unlicensed association, organization, or gathering that aims to undermine public order or security shall be punished by imprisonment for a ter...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "48",
+      "chapter": "Chapter 5: Crimes Against Public Order",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "57",
+      "chunk_size": "421"
+    },
+    "full_length": 421
+  },
+  {
+    "chunk_id": "chunk_128f40ac",
+    "text": "Article 49:\nWhoever imports, exports, manufactures, or produces narcotic or psychotropic substances with the intent to traffic shall be punished by life imprisonment and a fine not less than AED 50000...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "49",
+      "chapter": "Chapter 6: Drug Offenses",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "58",
+      "chunk_size": "352"
+    },
+    "full_length": 352
+  },
+  {
+    "chunk_id": "chunk_0622bb1f",
+    "text": "Article 50:\nWhoever possesses narcotic or psychotropic substances with the intent to sell, distribute, or traffic shall be punished by imprisonment for a term not less than ten years and not exceeding...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "50",
+      "chapter": "Chapter 6: Drug Offenses",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "59",
+      "chunk_size": "281"
+    },
+    "full_length": 281
+  },
+  {
+    "chunk_id": "chunk_ebd74c0f",
+    "text": "Article 51:\nWhoever possesses narcotic or psychotropic substances for personal use shall be punished by imprisonment for a term not less than one year and not exceeding three years and a fine not less...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "51",
+      "chapter": "Chapter 6: Drug Offenses",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "60",
+      "chunk_size": "476"
+    },
+    "full_length": 476
+  },
+  {
+    "chunk_id": "chunk_82b9eef2",
+    "text": "Article 52:\nWhoever uses or consumes narcotic or psychotropic substances shall be punished by imprisonment for a term not less than six months and not exceeding two years and a fine not less than AED ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "52",
+      "chapter": "Chapter 6: Drug Offenses",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "61",
+      "chunk_size": "381"
+    },
+    "full_length": 381
+  },
+  {
+    "chunk_id": "chunk_12239344",
+    "text": "Article 53:\nWhoever facilitates or prepares a place for the use of narcotic or psychotropic substances by others shall be punished by imprisonment for a term not less than five years and not exceeding...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "53",
+      "chapter": "Chapter 6: Drug Offenses",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "62",
+      "chunk_size": "348"
+    },
+    "full_length": 348
+  },
+  {
+    "chunk_id": "chunk_a510b30d",
+    "text": "Article 54:\nThe following substances are classified as narcotic and psychotropic substances for the purposes of this Law: cannabis, hashish, cocaine, heroin, methamphetamine, amphetamine, MDMA, LSD, s...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "54",
+      "chapter": "Chapter 6: Drug Offenses",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "63",
+      "chunk_size": "361"
+    },
+    "full_length": 361
+  },
+  {
+    "chunk_id": "chunk_b3e181e7",
+    "text": "Article 55:\nWhoever commits adultery shall be punished by imprisonment for a term not exceeding one year. Prosecution for adultery shall not be initiated except upon a complaint filed by the spouse. T...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "55",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "64",
+      "chunk_size": "458"
+    },
+    "full_length": 458
+  },
+  {
+    "chunk_id": "chunk_18750f21",
+    "text": "Article 56:\nWhoever abandons or neglects to provide maintenance for a person they are legally obligated to maintain, including a spouse, minor children, or elderly parents, despite having the financia...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "56",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "65",
+      "chunk_size": "342"
+    },
+    "full_length": 342
+  },
+  {
+    "chunk_id": "chunk_6b27da6a",
+    "text": "Article 57:\nWhoever unlawfully takes or conceals a minor from the custody of the person legally entitled to their custody shall be punished by imprisonment for a term not exceeding two years and a fin...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "57",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "66",
+      "chunk_size": "362"
+    },
+    "full_length": 362
+  },
+  {
+    "chunk_id": "chunk_0a113304",
+    "text": "Article 58:\nWhoever exposes a child under the age of seven to danger by abandoning them in a deserted place or by failing to provide them with necessary care, food, or shelter shall be punished by imp...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "58",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "67",
+      "chunk_size": "431"
+    },
+    "full_length": 431
+  },
+  {
+    "chunk_id": "chunk_c948014d",
+    "text": "Article 59:\nWhoever commits domestic violence, including physical, psychological, or economic abuse against a family member, shall be punished by imprisonment for a term not exceeding one year and a f...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "59",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "68",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_410be713",
+    "text": "============================================================\n\nPART THREE: SUPPLEMENTARY PROVISIONS",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "59",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "69",
+      "chunk_size": "98"
+    },
+    "full_length": 98
+  },
+  {
+    "chunk_id": "chunk_25e39f12",
+    "text": "Article 60:\nThe penalties prescribed in this Law shall not prejudice any civil liability arising from the criminal act. The injured party shall retain the right to claim compensation for damages befor...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "60",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "70",
+      "chunk_size": "229"
+    },
+    "full_length": 229
+  },
+  {
+    "chunk_id": "chunk_52a2b66d",
+    "text": "Article 61:\nThe provisions of this Law shall be interpreted in a manner consistent with the Constitution of the United Arab Emirates, Islamic Sharia principles, and the State's international obligatio...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "61",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "71",
+      "chunk_size": "243"
+    },
+    "full_length": 243
+  },
+  {
+    "chunk_id": "chunk_c3ac8b85",
+    "text": "Article 62:\nAny provision of Federal Law No. 3 of 1987 Concerning the Penal Code, and any other provision that contradicts or conflicts with the provisions of this Law, shall be repealed. Regulations ...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "62",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "72",
+      "chunk_size": "365"
+    },
+    "full_length": 365
+  },
+  {
+    "chunk_id": "chunk_5c9fa02f",
+    "text": "Article 63:\nThe Minister of Justice shall issue the implementing regulations and decisions necessary for the enforcement of this Law within six months of its publication in the Official Gazette.",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "63",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "73",
+      "chunk_size": "194"
+    },
+    "full_length": 194
+  },
+  {
+    "chunk_id": "chunk_b2ef63ab",
+    "text": "Article 64:\nThis Law shall be published in the Official Gazette and shall come into force on January 2, 2022, which is three months after the date of its issuance on October 2, 2021.\n\n================...",
+    "metadata": {
+      "source": "uae_penal_code.txt",
+      "law_name": "UAE Federal Penal Code (Federal Decree-Law No. 31 of 2021)",
+      "article_number": "64",
+      "chapter": "Chapter 7: Crimes Against the Family",
+      "section": "",
+      "num_articles": "64",
+      "num_chapters": "12",
+      "chunk_index": "74",
+      "chunk_size": "329"
+    },
+    "full_length": 329
+  },
+  {
+    "chunk_id": "chunk_1cec60f8",
+    "text": "UAE PERSONAL STATUS LAW\nFederal Law No. 28 of 2005\nOn Personal Status\n\n================================================================================\n\nPART ONE: MARRIAGE\n\nCHAPTER 1: Engagement and M...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "preamble",
+      "chapter": "",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "0",
+      "chunk_size": "216"
+    },
+    "full_length": 216
+  },
+  {
+    "chunk_id": "chunk_2576939d",
+    "text": "Article 1:\nThis Law governs matters of personal status, including marriage, divorce, custody, inheritance, maintenance, and guardianship. The provisions of this Law shall apply to UAE nationals. Non-M...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "1",
+      "chapter": "Chapter 1: Engagement and Marriage Contract",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "1",
+      "chunk_size": "337"
+    },
+    "full_length": 337
+  },
+  {
+    "chunk_id": "chunk_37954fd6",
+    "text": "Article 2:\nMarriage is a contract between a man and a woman that is legally sanctioned, the purpose of which is the establishment of a family based on care and affection. The marriage contract require...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "2",
+      "chapter": "Chapter 1: Engagement and Marriage Contract",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "2",
+      "chunk_size": "491"
+    },
+    "full_length": 491
+  },
+  {
+    "chunk_id": "chunk_99a5a82e",
+    "text": "Article 3:\nThe age of marriage capacity shall be eighteen Gregorian years for both males and females. The judge may, upon the request of the guardian and with the approval of the competent medical com...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "3",
+      "chapter": "Chapter 1: Engagement and Marriage Contract",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "3",
+      "chunk_size": "356"
+    },
+    "full_length": 356
+  },
+  {
+    "chunk_id": "chunk_82ef9079",
+    "text": "Article 4:\nThe dowry (mahr) is the property given by the husband to the wife as a condition of the marriage contract. The dowry may be prompt (paid at the time of marriage) or deferred (payable upon a...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "4",
+      "chapter": "Chapter 1: Engagement and Marriage Contract",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "4",
+      "chunk_size": "409"
+    },
+    "full_length": 409
+  },
+  {
+    "chunk_id": "chunk_f9ada82f",
+    "text": "Article 5:\nA marriage shall be registered with the competent court or authorized authority. An unregistered marriage is valid but the parties may not invoke it before the courts unless it is proven by...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "5",
+      "chapter": "Chapter 1: Engagement and Marriage Contract",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "5",
+      "chunk_size": "340"
+    },
+    "full_length": 340
+  },
+  {
+    "chunk_id": "chunk_2c6417d9",
+    "text": "Article 6:\nThe marriage contract may contain conditions stipulated by either party, provided they do not conflict with the purpose of marriage, public order, or the mandatory provisions of Sharia. If ...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "6",
+      "chapter": "Chapter 1: Engagement and Marriage Contract",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "6",
+      "chunk_size": "423"
+    },
+    "full_length": 423
+  },
+  {
+    "chunk_id": "chunk_4a56a4bf",
+    "text": "Article 7:\nThe husband shall be obligated to:\n(a) Pay the prompt dowry upon the conclusion of the marriage contract.\n(b) Provide the wife with suitable accommodation commensurate with their means.\n(c)...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "7",
+      "chapter": "Chapter 2: Rights and Obligations of Spouses",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "7",
+      "chunk_size": "450"
+    },
+    "full_length": 450
+  },
+  {
+    "chunk_id": "chunk_e918d627",
+    "text": "Article 8:\nThe wife shall be obligated to:\n(a) Reside in the marital home provided by the husband.\n(b) Permit the husband to have lawful intercourse.\n(c) Care for the household and children to the ext...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "8",
+      "chapter": "Chapter 2: Rights and Obligations of Spouses",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "8",
+      "chunk_size": "417"
+    },
+    "full_length": 417
+  },
+  {
+    "chunk_id": "chunk_0bd5fdd0",
+    "text": "Article 9:\nThe wife's right to maintenance (nafaqa) shall be established from the date of the valid marriage contract if she makes herself available to the husband or offers to do so. Maintenance shal...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "9",
+      "chapter": "Chapter 2: Rights and Obligations of Spouses",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "9",
+      "chunk_size": "475"
+    },
+    "full_length": 475
+  },
+  {
+    "chunk_id": "chunk_89f0a854",
+    "text": "Article 10:\nIf the husband fails to provide maintenance for the wife, she may apply to the court for an order requiring the husband to pay maintenance. The court may order the husband to pay maintenan...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "10",
+      "chapter": "Chapter 2: Rights and Obligations of Spouses",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "10",
+      "chunk_size": "260"
+    },
+    "full_length": 260
+  },
+  {
+    "chunk_id": "chunk_05296b2b",
+    "text": "tively from the date on which maintenance was due. If the husband is absent or his whereabouts are unknown, the court may order maintenance to be paid from the husband's property.\n\n===================...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "10",
+      "chapter": "Chapter 2: Rights and Obligations of Spouses",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "11",
+      "chunk_size": "309"
+    },
+    "full_length": 309
+  },
+  {
+    "chunk_id": "chunk_a0e30f49",
+    "text": "Article 11:\nDivorce (talaq) is the dissolution of the marriage bond. Divorce may be:\n(a) Revocable (raj'i): The husband may revoke the divorce during the waiting period (iddah) without a new contract ...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "11",
+      "chapter": "Chapter 3: Types of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "12",
+      "chunk_size": "403"
+    },
+    "full_length": 403
+  },
+  {
+    "chunk_id": "chunk_b77bc742",
+    "text": "the wife only with a new contract and a new dowry. This applies to divorce before consummation and divorce by khul'.\n(c) Irrevocable major (ba'in kubra): The marriage bond is dissolved and the husband...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "11",
+      "chapter": "Chapter 3: Types of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "13",
+      "chunk_size": "312"
+    },
+    "full_length": 312
+  },
+  {
+    "chunk_id": "chunk_73a1b24d",
+    "text": "Article 12:\nThe husband may divorce his wife by pronouncement in the presence of the wife or by written notification. A divorce pronounced under coercion, intoxication, or extreme anger that deprives ...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "12",
+      "chapter": "Chapter 3: Types of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "14",
+      "chunk_size": "389"
+    },
+    "full_length": 389
+  },
+  {
+    "chunk_id": "chunk_e0d5f69a",
+    "text": "Article 13:\nKhul' is the dissolution of the marriage at the request of the wife in return for compensation paid to the husband, typically the return of the dowry or other consideration. The court shal...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "13",
+      "chapter": "Chapter 3: Types of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "15",
+      "chunk_size": "377"
+    },
+    "full_length": 377
+  },
+  {
+    "chunk_id": "chunk_607be51b",
+    "text": "Article 14:\nEither spouse may apply to the court for judicial divorce on the following grounds:\n(a) Harm or discord (darar) that makes the continuation of married life impossible.\n(b) Failure of the h...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "14",
+      "chapter": "Chapter 3: Types of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "16",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_4c242c65",
+    "text": "e) Impotence or an incurable disease that prevents marital relations, provided the other spouse was unaware of the condition at the time of marriage.\n(f) Desertion or refusal to fulfill marital obliga...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "14",
+      "chapter": "Chapter 3: Types of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "17",
+      "chunk_size": "206"
+    },
+    "full_length": 206
+  },
+  {
+    "chunk_id": "chunk_2fa9ebbf",
+    "text": "Article 15:\nThe waiting period (iddah) following divorce shall be:\n(a) For a woman who menstruates: three complete menstrual cycles from the date of divorce.\n(b) For a woman who does not menstruate: t...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "15",
+      "chapter": "Chapter 3: Types of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "18",
+      "chunk_size": "444"
+    },
+    "full_length": 444
+  },
+  {
+    "chunk_id": "chunk_1ba4e9ff",
+    "text": "Article 16:\nUpon divorce, the wife shall be entitled to:\n(a) The deferred dowry, if any.\n(b) Maintenance during the waiting period.\n(c) Compensation for arbitrary divorce (mut'ah), determined by the c...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "16",
+      "chapter": "Chapter 4: Effects of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "19",
+      "chunk_size": "323"
+    },
+    "full_length": 323
+  },
+  {
+    "chunk_id": "chunk_95018e52",
+    "text": "ncial means, and the circumstances of the divorce. The mut'ah shall not exceed the equivalent of one year's maintenance.\n(d) Any property or assets to which she is entitled under the marriage contract...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "16",
+      "chapter": "Chapter 4: Effects of Divorce",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "20",
+      "chunk_size": "366"
+    },
+    "full_length": 366
+  },
+  {
+    "chunk_id": "chunk_15b2903a",
+    "text": "Article 17:\nCustody (hadana) is the care, upbringing, and protection of a child who is unable to care for themselves. The custodian shall provide the child with food, clothing, shelter, education, and...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "17",
+      "chapter": "Chapter 5: Custody (Hadana)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "21",
+      "chunk_size": "265"
+    },
+    "full_length": 265
+  },
+  {
+    "chunk_id": "chunk_c60f5a4b",
+    "text": "Article 18:\nThe mother shall have priority in the custody of the child, followed by the maternal grandmother, then the paternal grandmother, then the father. If none of these persons is available or f...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "18",
+      "chapter": "Chapter 5: Custody (Hadana)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "22",
+      "chunk_size": "355"
+    },
+    "full_length": 355
+  },
+  {
+    "chunk_id": "chunk_049ae8b7",
+    "text": "Article 19:\nCustody shall end when the male child reaches the age of eleven years and the female child reaches the age of thirteen years, unless the court determines that the best interest of the chil...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "19",
+      "chapter": "Chapter 5: Custody (Hadana)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "23",
+      "chunk_size": "349"
+    },
+    "full_length": 349
+  },
+  {
+    "chunk_id": "chunk_84a45b01",
+    "text": "Article 20:\nThe custodian must meet the following conditions:\n(a) Be of sound mind and of good moral character.\n(b) Be capable of raising and caring for the child.\n(c) Be free from contagious or dange...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "20",
+      "chapter": "Chapter 5: Custody (Hadana)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "24",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_864b7119",
+    "text": "mines that the child's interest requires otherwise.",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "20",
+      "chapter": "Chapter 5: Custody (Hadana)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "25",
+      "chunk_size": "51"
+    },
+    "full_length": 51
+  },
+  {
+    "chunk_id": "chunk_5360f36f",
+    "text": "Article 21:\nThe non-custodial parent shall have the right to visit the child at times determined by the court. The court shall establish a visitation schedule that serves the best interest of the chil...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "21",
+      "chapter": "Chapter 5: Custody (Hadana)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "26",
+      "chunk_size": "376"
+    },
+    "full_length": 376
+  },
+  {
+    "chunk_id": "chunk_d17ba019",
+    "text": "Article 22:\nThe custodial parent shall not travel with the child outside the State without the written consent of the other parent or a court order. If the custodial parent wishes to relocate with the...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "22",
+      "chapter": "Chapter 5: Custody (Hadana)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "27",
+      "chunk_size": "356"
+    },
+    "full_length": 356
+  },
+  {
+    "chunk_id": "chunk_2a7d7ef4",
+    "text": "Article 23:\nGuardianship (wilaya) over the person and property of a minor shall belong to the father, then to the paternal grandfather, then to the person designated by the father in their will, then ...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "23",
+      "chapter": "Chapter 6: Guardianship",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "28",
+      "chunk_size": "398"
+    },
+    "full_length": 398
+  },
+  {
+    "chunk_id": "chunk_f319613f",
+    "text": "Article 24:\nThe guardian shall not, without the permission of the court, sell or mortgage the immovable property of the minor, donate the minor's property, borrow on behalf of the minor, or invest the...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "24",
+      "chapter": "Chapter 6: Guardianship",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "29",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_dd39f3cd",
+    "text": "===============\n\nPART FOUR: INHERITANCE AND SUCCESSION\n\nCHAPTER 7: Inheritance (Mirath)",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "24",
+      "chapter": "Chapter 6: Guardianship",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "30",
+      "chunk_size": "87"
+    },
+    "full_length": 87
+  },
+  {
+    "chunk_id": "chunk_42db9f96",
+    "text": "Article 25:\nInheritance is the transfer of the deceased's estate to their heirs as determined by Islamic Sharia. The estate shall be distributed after payment of:\n(a) Funeral expenses and burial costs...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "25",
+      "chapter": "Chapter 7: Inheritance (Mirath)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "31",
+      "chunk_size": "368"
+    },
+    "full_length": 368
+  },
+  {
+    "chunk_id": "chunk_54fac8ef",
+    "text": "Article 26:\nThe heirs shall be classified as follows:\n(a) Fard heirs: Those entitled to fixed shares as prescribed by the Quran and Sunnah, including the spouse, parents, daughters, and siblings in ce...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "26",
+      "chapter": "Chapter 7: Inheritance (Mirath)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "32",
+      "chunk_size": "445"
+    },
+    "full_length": 445
+  },
+  {
+    "chunk_id": "chunk_9d7753d9",
+    "text": "Article 27:\nThe shares of the fard heirs shall be as follows:\n(a) The surviving wife shall receive one-quarter of the estate if the deceased has no children, and one-eighth if the deceased has childre...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "27",
+      "chapter": "Chapter 7: Inheritance (Mirath)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "33",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_168f7e42",
+    "text": "the remainder if the deceased has only female children.\n(d) The mother shall receive one-sixth if the deceased has children or two or more siblings, and one-third if the deceased has no children and f...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "27",
+      "chapter": "Chapter 7: Inheritance (Mirath)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "34",
+      "chunk_size": "435"
+    },
+    "full_length": 435
+  },
+  {
+    "chunk_id": "chunk_b0549c63",
+    "text": "Article 28:\nA person shall be excluded from inheritance if:\n(a) They intentionally caused the death of the deceased.\n(b) There is a difference of religion between the heir and the deceased; a Muslim s...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "28",
+      "chapter": "Chapter 7: Inheritance (Mirath)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "35",
+      "chunk_size": "512"
+    },
+    "full_length": 512
+  },
+  {
+    "chunk_id": "chunk_1d609461",
+    "text": "al agreements.\n\n================================================================================\n\nPART FIVE: MAINTENANCE AND SUPPLEMENTARY PROVISIONS\n\nCHAPTER 8: Maintenance (Nafaqa)",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "28",
+      "chapter": "Chapter 7: Inheritance (Mirath)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "36",
+      "chunk_size": "182"
+    },
+    "full_length": 182
+  },
+  {
+    "chunk_id": "chunk_72f014d8",
+    "text": "Article 29:\nA person shall be obligated to provide maintenance for those whom they are legally required to maintain. Maintenance includes food, clothing, accommodation, medical care, education, and ot...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "29",
+      "chapter": "Chapter 8: Maintenance (Nafaqa)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "37",
+      "chunk_size": "419"
+    },
+    "full_length": 419
+  },
+  {
+    "chunk_id": "chunk_9b05476e",
+    "text": "Article 30:\nThe father shall be obligated to provide maintenance for his children until they are able to support themselves. For male children, maintenance shall continue until they complete their edu...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "30",
+      "chapter": "Chapter 8: Maintenance (Nafaqa)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "38",
+      "chunk_size": "478"
+    },
+    "full_length": 478
+  },
+  {
+    "chunk_id": "chunk_0115a017",
+    "text": "Article 31:\nIf the father is unable to provide maintenance for his children, the obligation shall pass to the mother if she has sufficient means, without prejudice to her right to recover the amount f...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "31",
+      "chapter": "Chapter 8: Maintenance (Nafaqa)",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "39",
+      "chunk_size": "433"
+    },
+    "full_length": 433
+  },
+  {
+    "chunk_id": "chunk_a0af8364",
+    "text": "Article 32:\nThe court shall attempt reconciliation in all personal status disputes before proceeding to trial. The court may appoint one or two arbitrators from the families of both parties to assist ...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "32",
+      "chapter": "Chapter 9: Supplementary and Final Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "40",
+      "chunk_size": "316"
+    },
+    "full_length": 316
+  },
+  {
+    "chunk_id": "chunk_bcfe22c7",
+    "text": "Article 33:\nMatters of personal status involving non-Muslim foreigners may be governed by the Civil Personal Status Law (Federal Decree-Law No. 41 of 2022) if the parties choose to be governed by that...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "33",
+      "chapter": "Chapter 9: Supplementary and Final Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "41",
+      "chunk_size": "377"
+    },
+    "full_length": 377
+  },
+  {
+    "chunk_id": "chunk_1bf71c4f",
+    "text": "Article 34:\nAll personal status judgments shall be enforceable upon the parties. Appeals may be filed within thirty days of the date of notification of the judgment. The Court of Appeal shall have jur...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "34",
+      "chapter": "Chapter 9: Supplementary and Final Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "42",
+      "chunk_size": "242"
+    },
+    "full_length": 242
+  },
+  {
+    "chunk_id": "chunk_d4d2b07c",
+    "text": "Article 35:\nThis Law shall be published in the Official Gazette and shall come into force three months after the date of its publication. The provisions of this Law shall be interpreted in accordance ...",
+    "metadata": {
+      "source": "uae_personal_status_law.txt",
+      "law_name": "UAE Personal Status Law (Federal Law No. 28 of 2005)",
+      "article_number": "35",
+      "chapter": "Chapter 9: Supplementary and Final Provisions",
+      "section": "",
+      "num_articles": "35",
+      "num_chapters": "9",
+      "chunk_index": "43",
+      "chunk_size": "486"
+    },
+    "full_length": 486
+  }
+]

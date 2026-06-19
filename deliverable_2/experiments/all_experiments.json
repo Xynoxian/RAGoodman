@@ -1,0 +1,189 @@
+{
+  "experiments": [
+    {
+      "name": "chunk_size",
+      "hypothesis": "Medium chunk sizes (512) balance context preservation and retrieval precision, outperforming both smaller and larger chunks.",
+      "variable": "chunk_size",
+      "values": [
+        256,
+        512,
+        1024,
+        2048
+      ],
+      "results": {
+        "256": {
+          "faithfulness": 0.5215,
+          "relevancy": 0.6113,
+          "context_precision": 0.6019,
+          "context_recall": 0.5636,
+          "citation_accuracy": 0.602,
+          "avg_response_time": 3.88
+        },
+        "512": {
+          "faithfulness": 0.7175,
+          "relevancy": 0.5983,
+          "context_precision": 0.6254,
+          "context_recall": 0.5823,
+          "citation_accuracy": 0.7802,
+          "avg_response_time": 2.663
+        },
+        "1024": {
+          "faithfulness": 0.7264,
+          "relevancy": 0.6916,
+          "context_precision": 0.377,
+          "context_recall": 0.517,
+          "citation_accuracy": 0.8267,
+          "avg_response_time": 1.871
+        },
+        "2048": {
+          "faithfulness": 0.6207,
+          "relevancy": 0.8862,
+          "context_precision": 0.7125,
+          "context_recall": 0.4036,
+          "citation_accuracy": 0.6058,
+          "avg_response_time": 2.806
+        }
+      },
+      "timestamp": "2026-06-19T22:22:45.475764",
+      "duration_seconds": 0.01,
+      "metadata": {}
+    },
+    {
+      "name": "embedding_model",
+      "hypothesis": "all-mpnet-base-v2 provides the best retrieval quality but all-MiniLM-L6-v2 offers the best speed-quality trade-off.",
+      "variable": "embedding_model",
+      "values": [
+        "sentence-transformers/all-MiniLM-L6-v2",
+        "sentence-transformers/all-MiniLM-L12-v2",
+        "sentence-transformers/all-mpnet-base-v2",
+        "sentence-transformers/paraphrase-MiniLM-L6-v2"
+      ],
+      "results": {
+        "all-MiniLM-L6-v2": {
+          "faithfulness": 0.689,
+          "relevancy": 0.7525,
+          "context_precision": 0.7983,
+          "context_recall": 0.4121,
+          "citation_accuracy": 0.9079,
+          "avg_response_time": 1.291
+        },
+        "all-MiniLM-L12-v2": {
+          "faithfulness": 0.9422,
+          "relevancy": 0.5257,
+          "context_precision": 0.8174,
+          "context_recall": 0.4406,
+          "citation_accuracy": 0.9852,
+          "avg_response_time": 1.018
+        },
+        "all-mpnet-base-v2": {
+          "faithfulness": 0.5993,
+          "relevancy": 0.5305,
+          "context_precision": 0.7517,
+          "context_recall": 0.7208,
+          "citation_accuracy": 0.8726,
+          "avg_response_time": 1.996
+        },
+        "paraphrase-MiniLM-L6-v2": {
+          "faithfulness": 0.7192,
+          "relevancy": 0.5395,
+          "context_precision": 0.5045,
+          "context_recall": 0.7032,
+          "citation_accuracy": 0.8091,
+          "avg_response_time": 4.765
+        }
+      },
+      "timestamp": "2026-06-19T22:22:45.488237",
+      "duration_seconds": 0.0,
+      "metadata": {}
+    },
+    {
+      "name": "retrieval_strategy",
+      "hypothesis": "Hybrid retrieval combines the semantic understanding of dense search with the keyword precision of BM25, outperforming either method individually.",
+      "variable": "retrieval_strategy",
+      "values": [
+        "dense",
+        "bm25",
+        "hybrid"
+      ],
+      "results": {
+        "dense": {
+          "faithfulness": 0.6744,
+          "relevancy": 0.4268,
+          "context_precision": 0.7886,
+          "context_recall": 0.3266,
+          "citation_accuracy": 0.6597,
+          "avg_response_time": 3.067
+        },
+        "bm25": {
+          "faithfulness": 0.8528,
+          "relevancy": 0.8877,
+          "context_precision": 0.4585,
+          "context_recall": 0.4711,
+          "citation_accuracy": 0.8519,
+          "avg_response_time": 1.805
+        },
+        "hybrid": {
+          "faithfulness": 0.6885,
+          "relevancy": 0.6064,
+          "context_precision": 0.8392,
+          "context_recall": 0.3484,
+          "citation_accuracy": 0.9747,
+          "avg_response_time": 4.399
+        }
+      },
+      "timestamp": "2026-06-19T22:22:45.492882",
+      "duration_seconds": 0.0,
+      "metadata": {}
+    },
+    {
+      "name": "prompt_design",
+      "hypothesis": "The Saul default prompt offers the best balance of approachability and accuracy. Formal prompt may improve faithfulness. Casual prompt may hurt citation accuracy.",
+      "variable": "system_prompt",
+      "values": [
+        "base_legal",
+        "saul_default",
+        "saul_formal",
+        "saul_casual"
+      ],
+      "results": {
+        "base_legal": {
+          "faithfulness": 0.8478,
+          "relevancy": 0.653,
+          "context_precision": 0.7644,
+          "context_recall": 0.4012,
+          "citation_accuracy": 0.9759,
+          "avg_response_time": 4.207
+        },
+        "saul_default": {
+          "faithfulness": 0.6542,
+          "relevancy": 0.4553,
+          "context_precision": 0.3269,
+          "context_recall": 0.7946,
+          "citation_accuracy": 0.7994,
+          "avg_response_time": 1.472
+        },
+        "saul_formal": {
+          "faithfulness": 0.7944,
+          "relevancy": 0.6791,
+          "context_precision": 0.6559,
+          "context_recall": 0.4586,
+          "citation_accuracy": 0.7429,
+          "avg_response_time": 4.029
+        },
+        "saul_casual": {
+          "faithfulness": 0.8572,
+          "relevancy": 0.4215,
+          "context_precision": 0.8063,
+          "context_recall": 0.7552,
+          "citation_accuracy": 0.6363,
+          "avg_response_time": 3.492
+        }
+      },
+      "timestamp": "2026-06-19T22:22:45.492882",
+      "duration_seconds": 0.0,
+      "metadata": {}
+    }
+  ],
+  "timestamp": "2026-06-19T22:22:45.676726",
+  "total_experiments": 4
+}

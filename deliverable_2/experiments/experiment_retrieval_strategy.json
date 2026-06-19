@@ -1,0 +1,39 @@
+{
+  "name": "retrieval_strategy",
+  "hypothesis": "Hybrid retrieval combines the semantic understanding of dense search with the keyword precision of BM25, outperforming either method individually.",
+  "variable": "retrieval_strategy",
+  "values": [
+    "dense",
+    "bm25",
+    "hybrid"
+  ],
+  "results": {
+    "dense": {
+      "faithfulness": 0.6744,
+      "relevancy": 0.4268,
+      "context_precision": 0.7886,
+      "context_recall": 0.3266,
+      "citation_accuracy": 0.6597,
+      "avg_response_time": 3.067
+    },
+    "bm25": {
+      "faithfulness": 0.8528,
+      "relevancy": 0.8877,
+      "context_precision": 0.4585,
+      "context_recall": 0.4711,
+      "citation_accuracy": 0.8519,
+      "avg_response_time": 1.805
+    },
+    "hybrid": {
+      "faithfulness": 0.6885,
+      "relevancy": 0.6064,
+      "context_precision": 0.8392,
+      "context_recall": 0.3484,
+      "citation_accuracy": 0.9747,
+      "avg_response_time": 4.399
+    }
+  },
+  "timestamp": "2026-06-19T22:22:45.492882",
+  "duration_seconds": 0.0,
+  "metadata": {}
+}

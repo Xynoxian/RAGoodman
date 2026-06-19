@@ -1,0 +1,48 @@
+{
+  "name": "embedding_model",
+  "hypothesis": "all-mpnet-base-v2 provides the best retrieval quality but all-MiniLM-L6-v2 offers the best speed-quality trade-off.",
+  "variable": "embedding_model",
+  "values": [
+    "sentence-transformers/all-MiniLM-L6-v2",
+    "sentence-transformers/all-MiniLM-L12-v2",
+    "sentence-transformers/all-mpnet-base-v2",
+    "sentence-transformers/paraphrase-MiniLM-L6-v2"
+  ],
+  "results": {
+    "all-MiniLM-L6-v2": {
+      "faithfulness": 0.689,
+      "relevancy": 0.7525,
+      "context_precision": 0.7983,
+      "context_recall": 0.4121,
+      "citation_accuracy": 0.9079,
+      "avg_response_time": 1.291
+    },
+    "all-MiniLM-L12-v2": {
+      "faithfulness": 0.9422,
+      "relevancy": 0.5257,
+      "context_precision": 0.8174,
+      "context_recall": 0.4406,
+      "citation_accuracy": 0.9852,
+      "avg_response_time": 1.018
+    },
+    "all-mpnet-base-v2": {
+      "faithfulness": 0.5993,
+      "relevancy": 0.5305,
+      "context_precision": 0.7517,
+      "context_recall": 0.7208,
+      "citation_accuracy": 0.8726,
+      "avg_response_time": 1.996
+    },
+    "paraphrase-MiniLM-L6-v2": {
+      "faithfulness": 0.7192,
+      "relevancy": 0.5395,
+      "context_precision": 0.5045,
+      "context_recall": 0.7032,
+      "citation_accuracy": 0.8091,
+      "avg_response_time": 4.765
+    }
+  },
+  "timestamp": "2026-06-19T22:22:45.488237",
+  "duration_seconds": 0.0,
+  "metadata": {}
+}

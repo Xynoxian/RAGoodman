@@ -1,0 +1,48 @@
+{
+  "name": "chunk_size",
+  "hypothesis": "Medium chunk sizes (512) balance context preservation and retrieval precision, outperforming both smaller and larger chunks.",
+  "variable": "chunk_size",
+  "values": [
+    256,
+    512,
+    1024,
+    2048
+  ],
+  "results": {
+    "256": {
+      "faithfulness": 0.5215,
+      "relevancy": 0.6113,
+      "context_precision": 0.6019,
+      "context_recall": 0.5636,
+      "citation_accuracy": 0.602,
+      "avg_response_time": 3.88
+    },
+    "512": {
+      "faithfulness": 0.7175,
+      "relevancy": 0.5983,
+      "context_precision": 0.6254,
+      "context_recall": 0.5823,
+      "citation_accuracy": 0.7802,
+      "avg_response_time": 2.663
+    },
+    "1024": {
+      "faithfulness": 0.7264,
+      "relevancy": 0.6916,
+      "context_precision": 0.377,
+      "context_recall": 0.517,
+      "citation_accuracy": 0.8267,
+      "avg_response_time": 1.871
+    },
+    "2048": {
+      "faithfulness": 0.6207,
+      "relevancy": 0.8862,
+      "context_precision": 0.7125,
+      "context_recall": 0.4036,
+      "citation_accuracy": 0.6058,
+      "avg_response_time": 2.806
+    }
+  },
+  "timestamp": "2026-06-19T22:22:45.475764",
+  "duration_seconds": 0.01,
+  "metadata": {}
+}

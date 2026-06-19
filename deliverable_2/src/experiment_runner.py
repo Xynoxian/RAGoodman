@@ -593,29 +593,52 @@ class ExperimentRunner:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("ExperimentRunner — Smoke Test (placeholder mode)")
+    print("ExperimentRunner — Live Evaluation")
     print("=" * 60)
 
-    # Run with no pipeline — will generate placeholder results
-    runner = ExperimentRunner()
+    from deliverable_1.src.rag_pipeline import RAGPipeline
 
-    print("\n--- Running all experiments (placeholder mode) ---")
+    EVAL_DIR = Path(__file__).parent.parent / "evaluation"
+    TEST_QUERIES_PATH = EVAL_DIR / "test_queries.json"
+    GROUND_TRUTH_PATH = EVAL_DIR / "ground_truth.json"
+
+    with open(TEST_QUERIES_PATH, "r", encoding="utf-8") as f:
+        test_queries = json.load(f)
+
+    with open(GROUND_TRUTH_PATH, "r", encoding="utf-8") as f:
+        raw_gt = json.load(f)
+    # ground_truth.json uses "query_id" — normalise to "id" so the evaluator
+    # can index it correctly via gt["id"]
+    ground_truths = [
+        {**gt, "id": gt.get("id", gt.get("query_id", ""))}
+        for gt in raw_gt
+    ]
+
+    print(f"\nLoaded {len(test_queries)} test queries and {len(ground_truths)} ground truths.")
+    print("Initialising RAG pipeline (connecting to ChromaDB uae_legal_docs)…")
+    pipeline = RAGPipeline()
+
+    runner = ExperimentRunner(
+        base_pipeline=pipeline,
+        test_queries=test_queries,
+        ground_truths=ground_truths,
+    )
+
+    print("\n--- Running all experiments against live database ---")
     experiments = runner.run_all_experiments()
 
     for exp in experiments:
-        print(f"\n📊 {exp.name}:")
+        print(f"\n{exp.name}:")
         print(f"   Hypothesis: {exp.hypothesis[:80]}…")
         print(f"   Values tested: {exp.values}")
         for config, metrics in exp.results.items():
             print(f"   {config}: faith={metrics.get('faithfulness', 0):.3f}, "
                   f"rel={metrics.get('relevancy', 0):.3f}")
 
-    # Save results
     results_path = runner.save_results()
-    print(f"\n📁 Results saved to: {results_path}")
+    print(f"\nResults saved to: {results_path}")
 
-    # Plot results
     runner.plot_results()
-    print("\n📈 Charts generated!")
+    print("\nCharts generated!")
 
-    print("\n✅ Smoke test completed!")
+    print("\nDone!")
